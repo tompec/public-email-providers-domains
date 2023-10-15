@@ -1,0 +1,4486 @@
+[
+    {
+        "name": "AOL Mail",
+        "description": "AOL Mail (stylized as Aol Mail.) is a free web-based email service provided by AOL, a division of Yahoo!",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "aim.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "aol.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "15",
+                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "aol.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "aol.fr",
+                "mxRecords": [
+                    {
+                        "priority": "15",
+                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "games.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "verizon.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "wow.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ygm.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AT&T",
+        "description": "AT&T Inc.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "att.net",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "al-ip4-mx-vip1.prodigy.net."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "al-ip4-mx-vip2.prodigy.net."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "ff-ip4-mx-vip1.prodigy.net."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "ff-ip4-mx-vip2.prodigy.net."
+                    }
+                ]
+            },
+            {
+                "domain": "bellsouth.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "al-ip4-mx-vip1.prodigy.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "al-ip4-mx-vip2.prodigy.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "ff-ip4-mx-vip1.prodigy.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "ff-ip4-mx-vip2.prodigy.net."
+                    }
+                ]
+            },
+            {
+                "domain": "sbcglobal.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "al-ip4-mx-vip1.prodigy.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "al-ip4-mx-vip2.prodigy.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "ff-ip4-mx-vip1.prodigy.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "ff-ip4-mx-vip2.prodigy.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bell",
+        "description": "A bell is a directly struck idiophone percussion instrument.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "sympatico.ca",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.sympatico.ca."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Brasil Online",
+        "description": "Brasil Online (BOL) is an Internet portal that provides email hosting and free email services UOL.\n\n\n== History ==\nIn April 1996, BOL was launched in Brazil by Grupo Abril, one of the largest Communication Holdings in Brazil.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "bol.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "20",
+                        "hostname": "mx3.bol.com.br."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cox Communications.",
+        "description": "Cox Communications, Inc.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "cox.net",
+                "mxRecords": [
+                    {
+                        "priority": "100",
+                        "hostname": "cxr.mx.a.cloudfilter.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "EarthLink",
+        "description": "EarthLink is an American Internet service provider.It went public on NASDAQ in January 1997.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "earthlink.net",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx01.earthlink-vadesecure.net."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "mx02.earthlink-vadesecure.net."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "mx03.earthlink-vadesecure.net."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "mx04.earthlink-vadesecure.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fastmail",
+        "description": "Fastmail is an email hosting company based in Melbourne, Australia.",
+        "free": false,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "fastmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "in1-smtp.messagingengine.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "in2-smtp.messagingengine.com."
+                    }
+                ]
+            },
+            {
+                "domain": "fastmail.fm",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "in1-smtp.messagingengine.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "in2-smtp.messagingengine.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gmail",
+        "description": "Gmail is a free email service provided by Google.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "gmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "gmail-smtp-in.l.google.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "alt1.gmail-smtp-in.l.google.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "alt2.gmail-smtp-in.l.google.com."
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "alt3.gmail-smtp-in.l.google.com."
+                    },
+                    {
+                        "priority": "40",
+                        "hostname": "alt4.gmail-smtp-in.l.google.com."
+                    }
+                ]
+            },
+            {
+                "domain": "googlemail.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "gmail-smtp-in.l.google.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "alt1.gmail-smtp-in.l.google.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "alt2.gmail-smtp-in.l.google.com."
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "alt3.gmail-smtp-in.l.google.com."
+                    },
+                    {
+                        "priority": "40",
+                        "hostname": "alt4.gmail-smtp-in.l.google.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "GMX Mail",
+        "description": "GMX Mail is a free advertising-supported email service provided by GMX (Global Mail eXchange, in Germany: Global Message eXchange).",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": true
+        },
+        "domains": [
+            {
+                "domain": "freenet.de",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "emig.freenet.de."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.es",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hey (email service)",
+        "description": "HEY is a premium email service launched by Basecamp in June 2020.",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "hey.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "home-mx.app.hey.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "iCloud",
+        "description": "iCloud is a cloud service developed by Apple Inc.",
+        "free": true,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "icloud.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.icloud.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.mail.icloud.com."
+                    }
+                ]
+            },
+            {
+                "domain": "mac.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.icloud.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.mail.icloud.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.mail.icloud.com."
+                    }
+                ]
+            },
+            {
+                "domain": "me.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.icloud.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.mail.icloud.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Iliad SA",
+        "description": "Iliad S.A. is a French telecommunications company.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "aliceadsl.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.free.fr."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.free.fr."
+                    }
+                ]
+            },
+            {
+                "domain": "free.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.free.fr."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.free.fr."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Internet Group",
+        "description": "Internet Group do Brasil (iG) is a Brazilian Internet service provider that owns and operates web portals and provides a variety of services, including news, shopping and stock information.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "ig.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.ig.correio.biz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.ig.correio.biz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx3.ig.correio.biz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx4.ig.correio.biz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Juno Online Services",
+        "description": "Juno Online Services, also called simply Juno, is an Internet service provider based in the United States.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "juno.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dca.untd.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx.vgs.untd.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kolab Now",
+        "description": "Kolab Now is a web-based email and groupware service, based completely on free and open-source software.",
+        "free": false,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "kolabnow.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.kolabnow.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.kolabnow.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.kolabnow.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "KPN",
+        "description": "KPN (in full Koninklijke KPN N.V., also Royal KPN N.V.) is a Dutch telecommunications company.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "hetnet.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.kpnmail.nl."
+                    }
+                ]
+            },
+            {
+                "domain": "planet.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.kpnmail.nl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "La Poste (France)",
+        "description": "La Poste is a postal service company in France, operating in Metropolitan France, the five French overseas departments and regions and the overseas collectivity of Saint Pierre and Miquelon.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "laposte.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtpz4.laposte.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Libero (web portal)",
+        "description": "Libero (English: \"Free\") is an Italian web portal owned by Italiaonline and founded by Infostrada in 1994 as a website to assist users in browsing the Internet, which at the time still had a fee, and in configuring an e-mail.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "libero.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.libero.it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lumen Technologies",
+        "description": "Lumen Technologies, Inc.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "centurytel.net",
+                "mxRecords": [
+                    {
+                        "priority": "100",
+                        "hostname": "mx.centurylink.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lycos",
+        "description": "Lycos, Inc., is a web search engine and web portal established in 1994, spun out of Carnegie Mellon University.",
+        "free": false,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "lycos.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.lycos.com.cust.b.hostedemail.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mail.com",
+        "description": "mail.com is a web portal and web-based email service provider owned by the internet company 1&1 Mail & Media Inc., headquartered in Philadelphia, Pennsylvania, United States.",
+        "free": true,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "accountant.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "acdcfan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "activist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "adexec.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "africamail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "aircraftmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "allergist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "alumni.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "alumnidirector.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "angelic.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "archaeologist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "arcticmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "artlover.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "asia-mail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "asia.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "atheist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "auctioneer.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "australiamail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "bartender.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "bellair.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "berlin.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "bikerider.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "birdlover.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "blader.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "boardermail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "brazilmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "brew-master.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "brew-meister.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "bsdmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "californiamail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "cash4u.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "catlover.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "cheerful.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "chef.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "chemist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "chinamail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "clubmember.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "collector.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "columnist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "comic.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "computer4u.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "consultant.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "contractor.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "coolsite.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "counsellor.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "cutey.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "cyber-wizard.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "cyberdude.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "cybergal.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "cyberservices.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "dallasmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "dbzmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "deliveryman.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "diplomats.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "disciples.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "discofan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "disposable.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "doglover.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "doramail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "dr.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "dublin.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "dutchmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "elvisfan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "email.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "engineer.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "englandmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "europe.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "europemail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "execs.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "fastservice.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "financier.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "fireman.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "gardener.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "geologist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "germanymail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "graduate.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "graphic-designer.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "greenmail.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "groupmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hackermail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hairdresser.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hilarious.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hiphopfan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "homemail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hot-shot.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "housemail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "humanoid.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "iname.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "innocent.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "inorbit.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "instruction.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "instructor.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "insurer.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "irelandmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "israelmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "italymail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "job4u.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "journalist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "keromail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "kissfans.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "kittymail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "koreamail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "legislator.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "linuxmail.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "lobbyist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "lovecat.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "madonnafan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "mail-me.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "mail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "marchmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "metalfan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "mexicomail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "minister.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "moscowmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "munich.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "musician.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "muslim.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "myself.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "net-shopping.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "ninfan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "nonpartisan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "null.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "nycmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "optician.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "orthodontist.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "pacific-ocean.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "pacificwest.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "pediatrician.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "petlover.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "photographer.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "physicist.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "planetmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "planetmail.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "polandmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "politician.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "post.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "presidency.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "priest.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "programmer.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "protestant.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "publicist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "qualityservice.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "radiologist.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "ravemail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "realtyagent.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "reborn.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "reggaefan.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "registerednurses.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "reincarnate.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "religious.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "repairman.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "representative.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "rescueteam.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "rocketship.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "safrica.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "saintly.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "salesperson.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "samerica.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "sanfranmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "scotlandmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "secretary.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "snakebite.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "socialworker.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "sociologist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "solution4u.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "songwriter.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "spainmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "surgical.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "swedenmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "swissmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "teachers.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "tech-center.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "techie.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "technologist.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "theplate.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "therapist.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "toke.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "toothfairy.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "torontomail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "tvstar.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "umpire.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "usa.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "uymail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "webname.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "worker.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "workmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "writeme.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mailbox.org",
+        "description": "mailbox.org is an encrypted email service provider based in Germany.",
+        "free": false,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "mailbox.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.mailbox.org."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.mailbox.org."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx3.mailbox.org."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mx-n.mailbox.org."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mailfence",
+        "description": "Mailfence is an encrypted email service that offers OpenPGP based end-to-end encryption and digital signatures.",
+        "free": true,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": true
+        },
+        "domains": [
+            {
+                "domain": "mailfence.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp1.mailfence.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "smtp2.mailfence.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Optimum (cable brand)",
+        "description": "Optimum is an American telecommunications brand owned and operated by Altice USA. It is the fourth largest cable provider in the United States and a Fortune 500 company.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "optonline.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.altice.prod.msg.synchronoss.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Optus",
+        "description": "Singtel Optus Pty Limited (commonly referred to as Optus) is an Australian telecommunications company headquartered in Macquarie Park, a suburb in the Northern Sydney region of Sydney, New South Wales, Australia.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "optusnet.com.au",
+                "mxRecords": [
+                    {
+                        "priority": "50",
+                        "hostname": "extmail.optusnet.com.au."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Orange S.A.",
+        "description": "Orange S.A. (French pronunciation: [\u0254\u0281\u0251\u0303\u0292 \u025bs \u0251]), formerly France T\u00e9l\u00e9com S.A. (stylized as france telecom) is a French multinational telecommunications corporation.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "orange.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.orange.fr."
+                    }
+                ]
+            },
+            {
+                "domain": "wanadoo.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.orange.fr."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Outlook.com",
+        "description": "Outlook.com, formerly Hotmail, is a free personal email service offered by Microsoft.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": true
+        },
+        "domains": [
+            {
+                "domain": "hotmail.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "hotmail-com.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.es",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.ca",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.com",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "live-com.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.com.au",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "msn.com",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "msn-com.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "outlook-com.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "passport.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "outlook-com.olc.protection.outlook.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Posteo",
+        "description": "Posteo is an email service provider based in Berlin, Germany, offering paid email accounts for individuals and businesses.",
+        "free": false,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "posteo.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Proton Mail",
+        "description": "Proton Mail (previously written as ProtonMail) is a Swiss end-to-end encrypted email service founded in 2013 headquartered in Plan-les-Ouates, Switzerland.",
+        "free": true,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "pm.me",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mail.protonmail.ch."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mailsec.protonmail.ch."
+                    }
+                ]
+            },
+            {
+                "domain": "proton.me",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.protonmail.ch."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mailsec.protonmail.ch."
+                    }
+                ]
+            },
+            {
+                "domain": "protonmail.ch",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mail.protonmail.ch."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mailsec.protonmail.ch."
+                    }
+                ]
+            },
+            {
+                "domain": "protonmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mail.protonmail.ch."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mailsec.protonmail.ch."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Proximus Group",
+        "description": "The Proximus Group is a provider of digital services and communication in Belgium and the international markets.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "skynet.be",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.glb.proximus.be."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rambler (portal)",
+        "description": "Rambler (Russian: \u0420\u0430\u043c\u0431\u043b\u0435\u0440) is a Russian search engine and one of the biggest Russian web portals, owned by the Rambler Media Group.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "rambler.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "inmx.rambler.ru."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rediff.com",
+        "description": "Rediff.com, stylized as rediff.com, is an Indian news, information, entertainment and shopping web portal.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": true
+        },
+        "domains": [
+            {
+                "domain": "rediffmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.rediffmail.rediff.akadns.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SFR",
+        "description": "SFR (French: [\u025bs\u025bf\u025b\u0281]; in full: Soci\u00e9t\u00e9 fran\u00e7aise du radiot\u00e9l\u00e9phone [s\u0254sjete f\u0281\u0251\u0303s\u025b\u02d0z dy \u0281adjotelef\u0254n]) is a French telecommunications company.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "club-internet.fr",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "smtp-in.sfr.fr."
+                    }
+                ]
+            },
+            {
+                "domain": "neuf.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.sfr.fr."
+                    }
+                ]
+            },
+            {
+                "domain": "sfr.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.sfr.fr."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Shaw Communications",
+        "description": "Shaw Communications Inc.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "shaw.ca",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "shw-central.mx.a.cloudfilter.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Skiff (email service)",
+        "description": "Skiff is an end-to-end encrypted email service and collaboration tool.",
+        "free": true,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "skiff.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "inbound-smtp.skiff.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Swisscom",
+        "description": "Swisscom AG is a major telecommunications provider in Switzerland.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "bluewin.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxbw-bluewin-ch.hdb-cs04.ellb.ch."
+                    },
+                    {
+                        "priority": "42",
+                        "hostname": "mx-v01.bluewin.ch."
+                    },
+                    {
+                        "priority": "42",
+                        "hostname": "mx-v02.bluewin.ch."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "T-Online",
+        "description": "t-online.de is a German news portal, owned and published by digital multi-channel media company Str\u00f6er.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "t-online.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.t-online.de."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.t-online.de."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.t-online.de."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.t-online.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Telecom Italia Mobile",
+        "description": "Telecom Italia Mobile S.p.A., commonly known as TIM, is an Italian telecommunications company owned by Telecom Italia S.p.A. Founded as a mobile telephony company in 1995, since 2015 it provides mobile, fixed telephony, and Internet services.4G is available in 6,849 cities (96.3% of the country).",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "alice.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.tim.it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Telenet",
+        "description": "Telenet was an American commercial packet-switched network which went into service in 1975.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "telenet.be",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.telenet-ops.be."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.telenet-ops.be."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Teleunit S.p.A.",
+        "description": null,
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "tin.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.tin.it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Telstra",
+        "description": "Telstra Group Limited is an Australian telecommunications company that builds and operates telecommunications networks and markets related products and services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "bigpond.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "extmail.bigpond.com."
+                    }
+                ]
+            },
+            {
+                "domain": "bigpond.net.au",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "extmail.bpbb.bigpond.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tencent",
+        "description": "Tencent Holdings Ltd.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "qq.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.qq.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.qq.com."
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "mx1.qq.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Terra (company)",
+        "description": "Terra is a Spanish Internet multinational company owned by Telef\u00f3nica, with headquarters in Spain and offices in Brazil, Chile, Colombia, Mexico, the United States and Peru.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "terra.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "vip-us-br-mx.terra.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tessellis",
+        "description": "Tessellis S.p.A. (formerly Tiscali S.p.A.) is an Italian telecommunications company founded in 1998 and based in Cagliari, Sardinia, that provides Internet and telecommunications services in Italy, and, previously had operations in other European nations through its acquisition of many smaller European Internet Service Providers (ISPs) in the late 1990s.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "tiscali.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.tiscali.co.uk."
+                    }
+                ]
+            },
+            {
+                "domain": "tiscali.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "etb-1.mail.tiscali.it."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "etb-2.mail.tiscali.it."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "etb-3.mail.tiscali.it."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "etb-4.mail.tiscali.it."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "imp-5.mail.tiscali.it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tutanota",
+        "description": "Tutanota is an end-to-end encrypted email app and a freemium secure email service.",
+        "free": true,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "keemail.me",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.tutanota.de."
+                    }
+                ]
+            },
+            {
+                "domain": "tuta.io",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.tutanota.de."
+                    }
+                ]
+            },
+            {
+                "domain": "tutamail.com",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.tutanota.de."
+                    }
+                ]
+            },
+            {
+                "domain": "tutanota.com",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.tutanota.de."
+                    }
+                ]
+            },
+            {
+                "domain": "tutanota.de",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.tutanota.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "United Internet",
+        "description": "United Internet AG is a global Internet services company headquartered in Montabaur, Rhineland-Palatinate, Germany.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "web.de",
+                "mxRecords": [
+                    {
+                        "priority": "100",
+                        "hostname": "mx-ha02.web.de."
+                    },
+                    {
+                        "priority": "100",
+                        "hostname": "mx-ha03.web.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Universo Online",
+        "description": "Universo Online (Portuguese for \"Online Universe\") (known by the acronym UOL) is a Brazilian web content, products and services company.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "uol.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.uol.com.br."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Virgilio.it",
+        "description": "Virgilio was the first web portal in Italy.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "virgilio.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.virgilio.it."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Virgin Media",
+        "description": "Virgin Media is a British telecommunications company, founded in 2007, which provides telephone, television and internet services in the United Kingdom.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "blueyonder.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxin5.virginmedia.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin10.virginmedia.com."
+                    }
+                ]
+            },
+            {
+                "domain": "ntlworld.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxin5.virginmedia.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin10.virginmedia.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "VK (company)",
+        "description": "VK, known as Mail.ru Group until 12 October 2021, is a Russian technology company.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "mail.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxs.mail.ru."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vodafone",
+        "description": "Vodafone Group plc () is a British multinational telecommunications company.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "arcor.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx5.vodafonemail.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Xfinity",
+        "description": "Comcast Cable Communications, LLC, doing business as Xfinity, is an American telecommunications business segment and division of Comcast Corporation used to market consumer cable television, internet, telephone, and wireless services provided by the company.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "comcast.net",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx1.mxge.comcast.net."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "mx2.mxge.comcast.net."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mx1a1.comcast.net."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mx1c1.comcast.net."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mx1h1.comcast.net."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mx2a1.comcast.net."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mx2c1.comcast.net."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mx2h1.comcast.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yahoo! Mail",
+        "description": "Yahoo!",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "frontiernet.net",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dlls.pa.frontiernet.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx.frontiernet.net."
+                    }
+                ]
+            },
+            {
+                "domain": "rocketmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "sky.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.ca",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.co.id",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.co.in",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.co.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.mail.yahoo.co.jp."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.mail.yahoo.co.jp."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.mail.yahoo.co.jp."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx5.mail.yahoo.co.jp."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.ar",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.au",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.mx",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.sg",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.es",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.in",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ymail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ymail.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "zmx1.mail.yahoo.co.jp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yandex Mail",
+        "description": "Yandex Mail (Russian: \u042f\u043d\u0434\u0435\u043a\u0441 \u041f\u043e\u0447\u0442\u0430, tr.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "yandex.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.yandex.ru."
+                    }
+                ]
+            },
+            {
+                "domain": "yandex.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.yandex.ru."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ziggo",
+        "description": "Ziggo Holding B.V. (Dutch pronunciation: [z\u026a\u0263(\u02d0)o\u02d0]) is the largest cable operator in the Netherlands, providing digital cable television, Internet, and telephone service to both residential and commercial customers.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "chello.nl",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxin5.ziggo.nl."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin10.ziggo.nl."
+                    }
+                ]
+            },
+            {
+                "domain": "home.nl",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxin5.ziggo.nl."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin10.ziggo.nl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zoho Corporation",
+        "description": "Zoho Corporation, is an Indian multinational technology company that makes computer software and web-based business tools.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "zoho.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtpin.zoho.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "smtpin2.zoho.com."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "smtpin3.zoho.com."
+                    }
+                ]
+            },
+            {
+                "domain": "zohomail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtpin.zoho.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "smtpin2.zoho.com."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "smtpin3.zoho.com."
+                    }
+                ]
+            },
+            {
+                "domain": "zohomail.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.zoho.eu."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.zoho.eu."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mx3.zoho.eu."
+                    }
+                ]
+            }
+        ]
+    }
+]

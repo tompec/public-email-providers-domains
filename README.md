@@ -1,10 +1,11 @@
-# Personal Email Providers
+# Public Email Providers Domains
 
-This repository contains a list of personal email providers, which are email services used for personal purposes. The list includes both free and paid providers.
+This repository contains a list of domains used from public email providers such as Gmail, Yahoo!, Aol, etc...  
+The list includes both free and paid providers.
 
 ## Purpose
 
-The purpose of this repository is to identify personal emails. While there are several repositories listing email providers, none provide information about the origins of those emails.
+The purpose of this repository is to identify email addresses originating from public email providers.  
 
 ## Data Structure
 

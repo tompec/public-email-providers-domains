@@ -341,6 +341,32 @@
         },
         "domains": [
             {
+                "domain": "caramail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.caramail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.caramail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "caramail.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "freenet.de",
                 "mxRecords": [
                     {
@@ -3172,7 +3198,7 @@
     },
     {
         "name": "Mailfence",
-        "description": "Mailfence is an encrypted email service that offers OpenPGP based end-to-end encryption and digital signatures.",
+        "description": "Mailfence is a secure and encrypted email service that offers OpenPGP based end-to-end encryption and digital signatures.",
         "free": true,
         "verification": {
             "sms": false,
@@ -3264,6 +3290,60 @@
         },
         "domains": [
             {
+                "domain": "hotmail.be",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.ca",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "hotmail-com.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.cl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.co.nz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.co.th",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "hotmail.co.uk",
                 "mxRecords": [
                     {
@@ -3282,7 +3362,52 @@
                 ]
             },
             {
+                "domain": "hotmail.com.ar",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.com.au",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.com.tr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "hotmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.dk",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -3318,11 +3443,47 @@
                 ]
             },
             {
+                "domain": "hotmail.no",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.se",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.be",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "live.ca",
                 "mxRecords": [
                     {
                         "priority": "10",
                         "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.cn",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
                     }
                 ]
             },
@@ -3345,11 +3506,38 @@
                 ]
             },
             {
+                "domain": "live.com.ar",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "live.com.au",
                 "mxRecords": [
                     {
                         "priority": "10",
                         "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.com.mx",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
                     }
                 ]
             },
@@ -3395,6 +3583,78 @@
                     {
                         "priority": "5",
                         "hostname": "outlook-com.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.com.gr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.com.tr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.cz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.de",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.pt",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
                     }
                 ]
             },
@@ -4186,6 +4446,15 @@
                 ]
             },
             {
+                "domain": "yahoo.co.kr",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "yahoo.co.uk",
                 "mxRecords": [
                     {
@@ -4280,7 +4549,34 @@
                 ]
             },
             {
+                "domain": "yahoo.com.my",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.ph",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "yahoo.com.sg",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.vn",
                 "mxRecords": [
                     {
                         "priority": "1",

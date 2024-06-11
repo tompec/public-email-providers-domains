@@ -3961,6 +3961,53 @@
         ]
     },
     {
+        "name": "Seznam",
+        "description": "Seznam is a Czech internet search engine and web portal offering various online services like email, news, and maps.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "email.cz",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx1.seznam.cz."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.seznam.cz."
+                    }
+                ]
+            },
+            {
+                "domain": "post.cz",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx1.seznam.cz."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.seznam.cz."
+                    }
+                ]
+            },
+            {
+                "domain": "seznam.cz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.seznam.cz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.seznam.cz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "SFR",
         "description": "SFR (French: [\u025bs\u025bf\u025b\u0281]; in full: Soci\u00e9t\u00e9 fran\u00e7aise du radiot\u00e9l\u00e9phone [s\u0254sjete f\u0281\u0251\u0303s\u025b\u02d0z dy \u0281adjotelef\u0254n]) is a French telecommunications company.",
         "free": null,

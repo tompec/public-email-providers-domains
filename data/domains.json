@@ -3945,6 +3945,15 @@
                         "hostname": "outlook-com.olc.protection.outlook.com."
                     }
                 ]
+            },
+            {
+                "domain": "outlook.sa",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
             }
         ]
     },
@@ -5089,6 +5098,23 @@
                     {
                         "priority": "10",
                         "hostname": "zmx1.mail.yahoo.co.jp."
+                    }
+                ]
+            },
+            {
+                "domain": "myyahoo.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
                     }
                 ]
             }

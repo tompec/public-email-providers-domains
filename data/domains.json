@@ -389,6 +389,19 @@
                 ]
             },
             {
+                "domain": "gmx.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "gmx.com",
                 "mxRecords": [
                     {
@@ -3166,6 +3179,27 @@
         ]
     },
     {
+        "name": "mail.de",
+        "description": "Mail.de offers secure and reliable email services with advanced privacy protection features.",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "mail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.de."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.mail.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Mailbox.org",
         "description": "mailbox.org is an encrypted email service provider based in Germany.",
         "free": false,
@@ -3648,6 +3682,15 @@
                 ]
             },
             {
+                "domain": "hotmail.nl",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "hotmail-nl.b-v1.mx.microsoft."
+                    }
+                ]
+            },
+            {
                 "domain": "hotmail.no",
                 "mxRecords": [
                     {
@@ -3783,6 +3826,15 @@
                 ]
             },
             {
+                "domain": "outlook.be",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "outlook.com",
                 "mxRecords": [
                     {
@@ -3850,7 +3902,25 @@
                 ]
             },
             {
+                "domain": "outlook.es",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "outlook.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.it",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -4930,6 +5000,15 @@
                     {
                         "priority": "1",
                         "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.tw",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-tw.mail.gm0.yahoodns.net."
                     }
                 ]
             },

@@ -4450,7 +4450,52 @@
         "verification": null,
         "domains": [
             {
+                "domain": "bk.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxs.mail.ru."
+                    }
+                ]
+            },
+            {
+                "domain": "inbox.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxs.mail.ru."
+                    }
+                ]
+            },
+            {
+                "domain": "internet.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxs.mail.ru."
+                    }
+                ]
+            },
+            {
+                "domain": "list.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxs.mail.ru."
+                    }
+                ]
+            },
+            {
                 "domain": "mail.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxs.mail.ru."
+                    }
+                ]
+            },
+            {
+                "domain": "xmail.ru",
                 "mxRecords": [
                     {
                         "priority": "10",

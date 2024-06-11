@@ -3247,6 +3247,69 @@
         ]
     },
     {
+        "name": "NetEase",
+        "description": "NetEase is a leading Chinese technology company specializing in online services, including gaming, e-commerce, and music streaming.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "126.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "126mx01.mxmail.netease.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "126mx02.mxmail.netease.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "126mx03.mxmail.netease.com."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "126mx00.mxmail.netease.com."
+                    }
+                ]
+            },
+            {
+                "domain": "163.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "163mx01.mxmail.netease.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "163mx02.mxmail.netease.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "163mx03.mxmail.netease.com."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "163mx00.mxmail.netease.com."
+                    }
+                ]
+            },
+            {
+                "domain": "yeah.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "yeahmx01.mxmail.netease.com."
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "yeahmx00.mxmail.netease.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Onet.pl",
         "description": "Onet.pl is the largest Polish-language web portal and online news platform.",
         "free": null,

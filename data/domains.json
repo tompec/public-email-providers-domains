@@ -4592,6 +4592,42 @@
         "verification": null,
         "domains": [
             {
+                "domain": "go2.pl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.tlen.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "o2.pl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.tlen.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "prokonto.pl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.tlen.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "tlen.pl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.tlen.pl."
+                    }
+                ]
+            },
+            {
                 "domain": "wp.pl",
                 "mxRecords": [
                     {

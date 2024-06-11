@@ -376,6 +376,19 @@
                 ]
             },
             {
+                "domain": "gmx.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "gmx.com",
                 "mxRecords": [
                     {
@@ -557,20 +570,8 @@
                 "domain": "ig.com.br",
                 "mxRecords": [
                     {
-                        "priority": "10",
-                        "hostname": "mx1.ig.correio.biz."
-                    },
-                    {
-                        "priority": "20",
-                        "hostname": "mx2.ig.correio.biz."
-                    },
-                    {
-                        "priority": "20",
-                        "hostname": "mx3.ig.correio.biz."
-                    },
-                    {
-                        "priority": "20",
-                        "hostname": "mx4.ig.correio.biz."
+                        "priority": "1",
+                        "hostname": "mx-ha.skymail.net.br."
                     }
                 ]
             }
@@ -3221,6 +3222,147 @@
         ]
     },
     {
+        "name": "Naver",
+        "description": "Naver is a popular South Korean online platform offering search engine services, news, and more.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "naver.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.naver.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.naver.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.naver.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Onet.pl",
+        "description": "Onet.pl is the largest Polish-language web portal and online news platform.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "amorki.pl",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "autograf.pl",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "buziaczek.pl",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "onet.com.pl",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "onet.eu",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "onet.pl",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "op.pl",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "opoczta.pl",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "poczta.onet.eu",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "poczta.onet.pl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "spoko.pl",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "vp.pl",
+                "mxRecords": [
+                    {
+                        "priority": "2",
+                        "hostname": "mx.poczta.onet.pl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Optimum (cable brand)",
         "description": "Optimum is an American telecommunications brand owned and operated by Altice USA. It is the fourth largest cable provider in the United States and a Fortune 500 company.",
         "free": null,
@@ -3231,7 +3373,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "mx.altice.prod.msg.synchronoss.net."
+                        "hostname": "mx.altice.prod.cloud.openwave.ai."
                     }
                 ]
             }
@@ -3616,6 +3758,10 @@
             {
                 "domain": "outlook.cz",
                 "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "outlook-cz.d-v1.mx.microsoft."
+                    },
                     {
                         "priority": "10",
                         "hostname": "eur.olc.protection.outlook.com."
@@ -4279,6 +4425,27 @@
                     {
                         "priority": "10",
                         "hostname": "mx5.vodafonemail.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wirtualna Polska",
+        "description": "Wirtualna Polska is a leading Polish online media and e-commerce platform offering news, entertainment, and various digital services.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "wp.pl",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.wp.pl."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "mx5.wp.pl."
                     }
                 ]
             }

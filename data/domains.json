@@ -651,6 +651,23 @@
         ]
     },
     {
+        "name": "Interia",
+        "description": "Interia, formerly Interia.pl, is a large Polish web portal and online news platform launched in 2000 in Krak\u00f3w, Poland. It is the 4th largest online news source in the country.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "interia.pl",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.interia.pl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Internet Group",
         "description": "Internet Group do Brasil (iG) is a Brazilian Internet service provider that owns and operates web portals and provides a variety of services, including news, shopping and stock information.",
         "free": null,

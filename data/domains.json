@@ -4443,6 +4443,23 @@
         ]
     },
     {
+        "name": "Telia",
+        "description": "Telia Company AB is a Swedish multinational telecommunications company and mobile network operator present in Sweden, Finland, Norway, Estonia, Latvia and Lithuania.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "telia.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mail.telia.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Telstra",
         "description": "Telstra Group Limited is an Australian telecommunications company that builds and operates telecommunications networks and markets related products and services.",
         "free": null,

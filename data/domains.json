@@ -19,7 +19,7 @@
                 ]
             },
             {
-                "domain": "gyuvetch.bg",
+                "domain": "gbg.bg",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -32,7 +32,7 @@
                 ]
             },
             {
-                "domain": "gbg.bg",
+                "domain": "gyuvetch.bg",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -615,6 +615,36 @@
                     {
                         "priority": "20",
                         "hostname": "mx2.free.fr."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Inbox.lv",
+        "description": "Inbox.lv is a versatile Latvian email service provider offering secure and user-friendly email solutions.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "inbox.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.inbox.eu."
+                    }
+                ]
+            },
+            {
+                "domain": "inbox.lv",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx1.inbox.lv."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx2.inbox.lv."
                     }
                 ]
             }
@@ -3985,20 +4015,20 @@
                 ]
             },
             {
-                "domain": "passport.com",
-                "mxRecords": [
-                    {
-                        "priority": "10",
-                        "hostname": "outlook-com.olc.protection.outlook.com."
-                    }
-                ]
-            },
-            {
                 "domain": "outlook.sa",
                 "mxRecords": [
                     {
                         "priority": "10",
                         "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "passport.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "outlook-com.olc.protection.outlook.com."
                     }
                 ]
             }
@@ -4848,6 +4878,23 @@
                 ]
             },
             {
+                "domain": "myyahoo.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "rocketmail.com",
                 "mxRecords": [
                     {
@@ -5145,23 +5192,6 @@
                     {
                         "priority": "10",
                         "hostname": "zmx1.mail.yahoo.co.jp."
-                    }
-                ]
-            },
-            {
-                "domain": "myyahoo.com",
-                "mxRecords": [
-                    {
-                        "priority": "10",
-                        "hostname": "mta5.am0.yahoodns.net."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mta6.am0.yahoodns.net."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mta7.am0.yahoodns.net."
                     }
                 ]
             }

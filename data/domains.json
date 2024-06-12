@@ -657,6 +657,15 @@
         "verification": null,
         "domains": [
             {
+                "domain": "interia.eu",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.interia.pl."
+                    }
+                ]
+            },
+            {
                 "domain": "interia.pl",
                 "mxRecords": [
                     {
@@ -4594,6 +4603,23 @@
                     {
                         "priority": "0",
                         "hostname": "mail.tutanota.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "UKR",
+        "description": "Ukr.net is one of the most popular news internet services in Ukraine.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "ukr.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxs.ukr.net."
                     }
                 ]
             }

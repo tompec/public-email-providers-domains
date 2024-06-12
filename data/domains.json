@@ -4031,6 +4031,15 @@
                         "hostname": "outlook-com.olc.protection.outlook.com."
                     }
                 ]
+            },
+            {
+                "domain": "windowslive.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
             }
         ]
     },

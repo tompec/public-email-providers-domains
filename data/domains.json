@@ -1,5 +1,52 @@
 [
     {
+        "name": "ABV Mail",
+        "description": "ABV Mail, also known as ABV Pochta, is a Bulgarian web-based email service that offers free email accounts to users.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "abv.bg",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "pmx.abv.bg."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "smx.abv.bg."
+                    }
+                ]
+            },
+            {
+                "domain": "gyuvetch.bg",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "pmx.abv.bg."
+                    },
+                    {
+                        "priority": "15",
+                        "hostname": "smx.abv.bg."
+                    }
+                ]
+            },
+            {
+                "domain": "gbg.bg",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "pmx.abv.bg."
+                    },
+                    {
+                        "priority": "15",
+                        "hostname": "smx.abv.bg."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "AOL Mail",
         "description": "AOL Mail (stylized as Aol Mail.) is a free web-based email service provided by AOL, a division of Yahoo!",
         "free": true,

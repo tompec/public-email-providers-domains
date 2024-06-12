@@ -3929,6 +3929,15 @@
                 ]
             },
             {
+                "domain": "outlook.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "outlook.be",
                 "mxRecords": [
                     {
@@ -3938,11 +3947,74 @@
                 ]
             },
             {
+                "domain": "outlook.cm",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.co",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.co.id",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.co.nz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.co.th",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "outlook.com",
                 "mxRecords": [
                     {
                         "priority": "5",
                         "hostname": "outlook-com.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.com.ar",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.com.au",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
                     }
                 ]
             },
@@ -3970,6 +4042,15 @@
                     {
                         "priority": "10",
                         "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.com.vn",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
                     }
                 ]
             },
@@ -4023,11 +4104,38 @@
                 ]
             },
             {
+                "domain": "outlook.ie",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "outlook.it",
                 "mxRecords": [
                     {
                         "priority": "10",
                         "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.kr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
                     }
                 ]
             },
@@ -4042,6 +4150,15 @@
             },
             {
                 "domain": "outlook.sa",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.sg",
                 "mxRecords": [
                     {
                         "priority": "10",

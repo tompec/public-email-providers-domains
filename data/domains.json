@@ -5107,6 +5107,15 @@
                 ]
             },
             {
+                "domain": "yahoo.be",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "yahoo.ca",
                 "mxRecords": [
                     {
@@ -5164,6 +5173,15 @@
             },
             {
                 "domain": "yahoo.co.kr",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.co.th",
                 "mxRecords": [
                     {
                         "priority": "1",
@@ -5249,6 +5267,15 @@
                 ]
             },
             {
+                "domain": "yahoo.com.hk",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "yahoo.com.mx",
                 "mxRecords": [
                     {
@@ -5293,11 +5320,45 @@
                 ]
             },
             {
+                "domain": "yahoo.com.tr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "yahoo.com.tw",
                 "mxRecords": [
                     {
                         "priority": "10",
                         "hostname": "mx-tw.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.com.ve",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
                     }
                 ]
             },
@@ -5312,6 +5373,15 @@
             },
             {
                 "domain": "yahoo.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.dk",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -5338,6 +5408,24 @@
                 ]
             },
             {
+                "domain": "yahoo.gr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.ie",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "yahoo.in",
                 "mxRecords": [
                     {
@@ -5348,6 +5436,33 @@
             },
             {
                 "domain": "yahoo.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.no",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.ro",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-eu.mail.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.se",
                 "mxRecords": [
                     {
                         "priority": "10",

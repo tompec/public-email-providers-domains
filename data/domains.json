@@ -4739,6 +4739,15 @@
                         "hostname": "mail.tutanota.de."
                     }
                 ]
+            },
+            {
+                "domain": "tuta.com",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.tutanota.de."
+                    }
+                ]
             }
         ]
     },

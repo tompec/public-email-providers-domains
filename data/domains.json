@@ -657,6 +657,24 @@
         "verification": null,
         "domains": [
             {
+                "domain": "int.pl",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.interia.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "interia.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.interia.pl."
+                    }
+                ]
+            },
+            {
                 "domain": "interia.eu",
                 "mxRecords": [
                     {
@@ -667,6 +685,15 @@
             },
             {
                 "domain": "interia.pl",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.interia.pl."
+                    }
+                ]
+            },
+            {
+                "domain": "poczta.fm",
                 "mxRecords": [
                     {
                         "priority": "5",
@@ -3920,6 +3947,15 @@
                 ]
             },
             {
+                "domain": "live.se",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "msn.com",
                 "mxRecords": [
                     {
@@ -4705,6 +4741,15 @@
                 ]
             },
             {
+                "domain": "tuta.com",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.tutanota.de."
+                    }
+                ]
+            },
+            {
                 "domain": "tuta.io",
                 "mxRecords": [
                     {
@@ -4733,15 +4778,6 @@
             },
             {
                 "domain": "tutanota.de",
-                "mxRecords": [
-                    {
-                        "priority": "0",
-                        "hostname": "mail.tutanota.de."
-                    }
-                ]
-            },
-            {
-                "domain": "tuta.com",
                 "mxRecords": [
                     {
                         "priority": "0",
@@ -5048,6 +5084,40 @@
         },
         "domains": [
             {
+                "domain": "epix.net",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "frontier.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "frontiernet.net",
                 "mxRecords": [
                     {
@@ -5061,14 +5131,23 @@
                     {
                         "priority": "1",
                         "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gvni.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mta5.am0.yahoodns.net."
                     },
                     {
-                        "priority": "10",
-                        "hostname": "mx.dlls.pa.frontiernet.net."
+                        "priority": "1",
+                        "hostname": "mta6.am0.yahoodns.net."
                     },
                     {
-                        "priority": "10",
-                        "hostname": "mx.frontiernet.net."
+                        "priority": "1",
+                        "hostname": "mta7.am0.yahoodns.net."
                     }
                 ]
             },
@@ -5085,6 +5164,23 @@
                     },
                     {
                         "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "newnorth.net",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
                         "hostname": "mta7.am0.yahoodns.net."
                     }
                 ]

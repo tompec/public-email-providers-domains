@@ -4368,6 +4368,23 @@
         ]
     },
     {
+        "name": "SAPO",
+        "description": "Sapo is a Portuguese portal and provider of products and services for the Internet. Founded in 1995 as a search engine, it is the largest internet portal in Portugal.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "sapo.pt",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.ptmail.sapo.pt."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Seznam",
         "description": "Seznam is a Czech internet search engine and web portal offering various online services like email, news, and maps.",
         "free": null,

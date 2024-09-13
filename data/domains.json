@@ -3386,6 +3386,27 @@
         ]
     },
     {
+        "name": "Meta.ua",
+        "description": "Meta.ua is a comprehensive Ukrainian web portal offering search, email, news, and various online services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "meta.ua",
+                "mxRecords": [
+                    {
+                        "priority": "20",
+                        "hostname": "mxs2.meta.ua."
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "mxs3.meta.ua."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Naver",
         "description": "Naver is a popular South Korean online platform offering search engine services, news, and more.",
         "free": null,

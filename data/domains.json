@@ -3949,6 +3949,15 @@
                 ]
             },
             {
+                "domain": "live.com.pt",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "live.de",
                 "mxRecords": [
                     {
@@ -3977,6 +3986,15 @@
             },
             {
                 "domain": "live.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.no",
                 "mxRecords": [
                     {
                         "priority": "10",

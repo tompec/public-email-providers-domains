@@ -47,6 +47,23 @@
         ]
     },
     {
+        "name": "Agora S.A.",
+        "description": "Agora S.A. provides diverse media and communication services, including print, online, and radio, to engage and inform the public in Poland.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "gazeta.pl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.poczta.gazeta.pl."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "AOL Mail",
         "description": "AOL Mail (stylized as Aol Mail.) is a free web-based email service provided by AOL, a division of Yahoo!",
         "free": true,

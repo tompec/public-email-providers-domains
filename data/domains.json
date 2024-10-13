@@ -884,6 +884,39 @@
         ]
     },
     {
+        "name": "Mail.bg",
+        "description": "Mail.bg is a Bulgarian email service that provides users with secure and reliable email communication.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "mail.bg",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx-balancer.mail.bg."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.mail.bg."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.mail.bg."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx4.mail.bg."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "secondary-mx.mail.bg."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Mail.com",
         "description": "mail.com is a web portal and web-based email service provider owned by the internet company 1&1 Mail & Media Inc., headquartered in Philadelphia, Pennsylvania, United States.",
         "free": true,

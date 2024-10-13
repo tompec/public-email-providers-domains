@@ -893,6 +893,19 @@
         },
         "domains": [
             {
+                "domain": "2trom.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
                 "domain": "accountant.com",
                 "mxRecords": [
                     {
@@ -1817,6 +1830,19 @@
             },
             {
                 "domain": "fireman.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.mail.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.mail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "galaxyhit.com",
                 "mxRecords": [
                     {
                         "priority": "10",

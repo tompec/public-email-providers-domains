@@ -5105,6 +5105,23 @@
         ]
     },
     {
+        "name": "Windstream",
+        "description": "Windstream provides advanced network communications and technology solutions for consumers, businesses, enterprise organizations, and wholesale customers across the U.S.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "windstream.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.windstream.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Wirtualna Polska",
         "description": "Wirtualna Polska is a leading Polish online media and e-commerce platform offering news, entertainment, and various digital services.",
         "free": true,

@@ -4026,6 +4026,15 @@
                 ]
             },
             {
+                "domain": "live.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "live.fr",
                 "mxRecords": [
                     {

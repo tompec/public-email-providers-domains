@@ -335,6 +335,59 @@
         ]
     },
     {
+        "name": "Freenet AG",
+        "description": "Freenet AG (formerly freenet.de AG) is a German telecommunications and web content provider.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "bossmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "emig.freenet.de."
+                    }
+                ]
+            },
+            {
+                "domain": "fn.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "emig.freenet.de."
+                    }
+                ]
+            },
+            {
+                "domain": "freenet.de",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "emig.freenet.de."
+                    }
+                ]
+            },
+            {
+                "domain": "freenetmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "emig.freenet.de."
+                    }
+                ]
+            },
+            {
+                "domain": "justmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "emig.freenet.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Gmail",
         "description": "Gmail is a free email service provided by Google.",
         "free": true,

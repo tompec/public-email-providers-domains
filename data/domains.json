@@ -484,15 +484,6 @@
                 ]
             },
             {
-                "domain": "freenet.de",
-                "mxRecords": [
-                    {
-                        "priority": "1",
-                        "hostname": "emig.freenet.de."
-                    }
-                ]
-            },
-            {
                 "domain": "gmx.at",
                 "mxRecords": [
                     {

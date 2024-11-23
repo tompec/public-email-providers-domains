@@ -4845,6 +4845,23 @@
                         "hostname": "mx1.qq.com."
                     }
                 ]
+            },
+            {
+                "domain": "foxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.qq.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.qq.com."
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "mx1.qq.com."
+                    }
+                ]
             }
         ]
     },

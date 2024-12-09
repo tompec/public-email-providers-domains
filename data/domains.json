@@ -109,15 +109,6 @@
                 ]
             },
             {
-                "domain": "games.com",
-                "mxRecords": [
-                    {
-                        "priority": "10",
-                        "hostname": "mx-aol.mail.gm0.yahoodns.net."
-                    }
-                ]
-            },
-            {
                 "domain": "verizon.net",
                 "mxRecords": [
                     {
@@ -261,8 +252,16 @@
                 "domain": "cox.net",
                 "mxRecords": [
                     {
-                        "priority": "100",
-                        "hostname": "cxr.mx.a.cloudfilter.net."
+                        "priority": "1",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mta7.am0.yahoodns.net."
                     }
                 ]
             }
@@ -497,6 +496,32 @@
                 ]
             },
             {
+                "domain": "gmx.biz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.ca",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "gmx.ch",
                 "mxRecords": [
                     {
@@ -510,7 +535,98 @@
                 ]
             },
             {
+                "domain": "gmx.cn",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.co",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx0.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.co.in",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "gmx.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.com.my",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.com.tr",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -549,7 +665,111 @@
                 ]
             },
             {
+                "domain": "gmx.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "gmx.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.hk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.ie",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.info",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.li",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.lu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.name",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -571,6 +791,110 @@
                     {
                         "priority": "10",
                         "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.ph",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.pt",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.se",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.sg",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.tw",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx.us",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx01.gmx.net."
                     }
                 ]
             }
@@ -3757,8 +4081,12 @@
                 "domain": "optusnet.com.au",
                 "mxRecords": [
                     {
-                        "priority": "50",
-                        "hostname": "extmail.optusnet.com.au."
+                        "priority": "10",
+                        "hostname": "mx-10.au-east.atmailcloud.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx-20.au-east.atmailcloud.com."
                     }
                 ]
             }
@@ -3776,6 +4104,10 @@
                     {
                         "priority": "10",
                         "hostname": "smtp-in.orange.fr."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in2.orange.fr."
                     }
                 ]
             },
@@ -3785,6 +4117,10 @@
                     {
                         "priority": "10",
                         "hostname": "smtp-in.orange.fr."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in2.orange.fr."
                     }
                 ]
             }
@@ -4830,7 +5166,7 @@
         "verification": null,
         "domains": [
             {
-                "domain": "qq.com",
+                "domain": "foxmail.com",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -4847,7 +5183,7 @@
                 ]
             },
             {
-                "domain": "foxmail.com",
+                "domain": "qq.com",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -4888,15 +5224,6 @@
         "free": null,
         "verification": null,
         "domains": [
-            {
-                "domain": "tiscali.co.uk",
-                "mxRecords": [
-                    {
-                        "priority": "10",
-                        "hostname": "mx.tiscali.co.uk."
-                    }
-                ]
-            },
             {
                 "domain": "tiscali.it",
                 "mxRecords": [

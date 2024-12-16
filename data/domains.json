@@ -376,6 +376,15 @@
                 ]
             },
             {
+                "domain": "geekmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "emig.freenet.de."
+                    }
+                ]
+            },
+            {
                 "domain": "justmail.de",
                 "mxRecords": [
                     {

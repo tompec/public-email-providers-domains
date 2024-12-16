@@ -457,6 +457,136 @@
         },
         "domains": [
             {
+                "domain": "abwesend.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "alpenjodel.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "alphafrau.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "baldmama.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "baldpapa.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "betriebsdirektor.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "bin-wieder-da.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "bist-eine-haelfte-von-mir.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "bleib-bei-mir.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "buerotiger.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "caramail.com",
                 "mxRecords": [
                     {
@@ -479,6 +609,266 @@
                     {
                         "priority": "10",
                         "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "coole-files.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "das-spiel-hat-90-minuten.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "der-ball-ist-rund.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "die-besten-bilder.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "die-genossen.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "die-optimisten.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "digi-dia-freakshow.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "digital-filestore.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "digitalfoto-model-award.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "download-privat.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "email-ausdrucker.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "es-ist-liebe.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "fahr-zur-hoelle.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "fantasymail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "feinripptraeger.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "fettabernett.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "freudenkinder.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gentlemansclub.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx-ist-cool.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "gmx-topmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
                     }
                 ]
             },
@@ -873,6 +1263,19 @@
                 ]
             },
             {
+                "domain": "gmx.tm",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "gmx.tw",
                 "mxRecords": [
                     {
@@ -895,6 +1298,890 @@
                     {
                         "priority": "20",
                         "hostname": "mx01.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "hab-verschlafen.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "habmalnefrage.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "herr-der-mails.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ich-bin-verrueckt-nach-dir.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ich-habe-fertig.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ich-will-net.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ist-allein.info",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ist-einmalig.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ist-es-liebe.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ist-ganz-allein.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "ist-willig.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "kaffeeschluerfer.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "kommespaeter.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "lass-es-geschehen.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "liebt-den-mann-ihrer-chefin.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "liebt-dich.info",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "liebt-die-frau-seines-chefs.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "loveyouforever.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "maennerversteherin.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "mailueberfall.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "meine-dateien.info",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "meine-diashow.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "meine-fotos.info",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "meine-urlaubsfotos.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "meine-wahrheit-deine-wahrheit.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "moechte-mit-dir-aufwachen.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "muskelshirt.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "netterchef.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "neue-dateien.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "nurfuerspam.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "office-dateien.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "partybombe.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "partyheld.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "peinliche-fotos.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "polizisten-duzer.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "public-files.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "quantentunnel.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "raubtierbaendiger.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "saeuferleber.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "sags-per-mail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "schmusemail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "schreib-doch-mal-wieder.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "shared-files.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "sonnenkinder.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "streber24.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "teilt-mit-dir-alle-geheimnisse.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "terminverpennt.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "topmail-files.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "tortenboxer.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "turboprinz.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "turboprinzessin.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "turnbeutel-vergesser.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "unterderbruecke.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "verlass-mich-nicht.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "vollbio.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "volloeko.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "vorabend-einchecker.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "vorsicht-bissig.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "vorsicht-scharf.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "war-im-urlaub.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "weibsvolk.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "weinenvorglueck.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "wenns-um-email-geht.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "will-hier-weg.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "wir-haben-nachwuchs.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "wir-sind-cool.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "wolke7.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
+                "domain": "women-at-work.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
                     }
                 ]
             }
@@ -5210,6 +6497,10 @@
             {
                 "domain": "terra.com.br",
                 "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "terramail-mx.trafficmanager.net."
+                    },
                     {
                         "priority": "10",
                         "hostname": "vip-us-br-mx.terra.com."

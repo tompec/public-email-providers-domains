@@ -6762,6 +6762,18 @@
                     {
                         "priority": "10",
                         "hostname": "mx3.naver.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx4.mail.naver.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx5.mail.naver.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx6.mail.naver.com."
                     }
                 ]
             }
@@ -9072,7 +9084,7 @@
     },
     {
         "name": "Ziggo",
-        "description": "Ziggo Holding B.V. (Dutch pronunciation: [z\u026a\u0263(\u02d0)o\u02d0]) is the largest cable operator in the Netherlands, providing digital cable television, Internet, and telephone service to both residential and commercial customers.",
+        "description": "Ziggo Holding B.V. is the largest cable operator in the Netherlands, providing digital cable television, Internet, and telephone service to both residential and commercial customers.",
         "free": null,
         "verification": null,
         "domains": [
@@ -9091,6 +9103,19 @@
             },
             {
                 "domain": "home.nl",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxin5.ziggo.nl."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin10.ziggo.nl."
+                    }
+                ]
+            },
+            {
+                "domain": "ziggo.nl",
                 "mxRecords": [
                     {
                         "priority": "5",

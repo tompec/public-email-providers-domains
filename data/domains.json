@@ -209,6 +209,23 @@
         ]
     },
     {
+        "name": "Azet.",
+        "description": "Azet.sk is a Slovak online portal. The portal currently manages 23 online services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "azet.sk",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "smtp2.azet.sk."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Bell Internet",
         "description": "Bell Internet, originally and frequently still called Sympatico, is the residential Internet service provider (ISP) division of BCE Inc.",
         "free": null,
@@ -3167,6 +3184,19 @@
                 ]
             },
             {
+                "domain": "mein.gmx",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.gmx.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.gmx.net."
+                    }
+                ]
+            },
+            {
                 "domain": "meine-dateien.info",
                 "mxRecords": [
                     {
@@ -4054,6 +4084,15 @@
         "domains": [
             {
                 "domain": "hetnet.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.kpnmail.nl."
+                    }
+                ]
+            },
+            {
+                "domain": "kpnmail.nl",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -7793,6 +7832,31 @@
         ]
     },
     {
+        "name": "SaskTel",
+        "description": "SaskTel is a leading telecommunications provider in Saskatchewan, offering internet, phone, and entertainment services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "sasktel.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1c11.megamailservers.com."
+                    },
+                    {
+                        "priority": "100",
+                        "hostname": "mx2c11.megamailservers.com."
+                    },
+                    {
+                        "priority": "110",
+                        "hostname": "mx3c11.megamailservers.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Seznam",
         "description": "Seznam is a Czech internet search engine and web portal offering various online services like email, news, and maps.",
         "free": null,
@@ -7906,6 +7970,23 @@
                     {
                         "priority": "1",
                         "hostname": "inbound-smtp.skiff.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Spark New Zealand",
+        "description": "Spark New Zealand is a leading telecommunications and digital services provider offering mobile, internet, and entertainment solutions.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "xtra.co.nz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.xtra.co.nz."
                     }
                 ]
             }

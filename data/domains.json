@@ -7912,6 +7912,40 @@
         ]
     },
     {
+        "name": "Sunrise Communications",
+        "description": "Sunrise Communications provides comprehensive telecommunication services, including mobile, internet, and digital TV solutions.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "hispeed.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxin1-hispeed-ch.edge.unified.services."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin2-hispeed-ch.edge.unified.services."
+                    }
+                ]
+            },
+            {
+                "domain": "sunrise.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxin1-sunrise-ch.edge.unified.services."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin2-sunrise-ch.edge.unified.services."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Swisscom",
         "description": "Swisscom AG is a major telecommunications provider in Switzerland.",
         "free": null,

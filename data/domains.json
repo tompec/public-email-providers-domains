@@ -9055,7 +9055,7 @@
     },
     {
         "name": "Yandex Mail",
-        "description": "Yandex Mail (Russian: \u042f\u043d\u0434\u0435\u043a\u0441 \u041f\u043e\u0447\u0442\u0430, tr.",
+        "description": "Yandex Mail is a Russian free email service developed by Yandex.",
         "free": true,
         "verification": {
             "sms": true,
@@ -9063,7 +9063,25 @@
         },
         "domains": [
             {
+                "domain": "yandex.by",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.yandex.ru."
+                    }
+                ]
+            },
+            {
                 "domain": "yandex.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.yandex.ru."
+                    }
+                ]
+            },
+            {
+                "domain": "yandex.kz",
                 "mxRecords": [
                     {
                         "priority": "10",

@@ -7367,6 +7367,15 @@
                 ]
             },
             {
+                "domain": "live.hk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "live.it",
                 "mxRecords": [
                     {

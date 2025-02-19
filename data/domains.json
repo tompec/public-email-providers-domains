@@ -8502,6 +8502,15 @@
                 ]
             },
             {
+                "domain": "vk.com",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mxs.mail.ru."
+                    }
+                ]
+            },
+            {
                 "domain": "xmail.ru",
                 "mxRecords": [
                     {

@@ -7770,6 +7770,23 @@
         ]
     },
     {
+        "name": "Infomaniak",
+        "description": "Infomaniak Network is Switzerland's largest web-hosting company, also offering live-streaming and video on demand services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "ik.me",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mta-gw.infomaniak.ch."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Proximus Group",
         "description": "The Proximus Group is a provider of digital services and communication in Belgium and the international markets.",
         "free": null,

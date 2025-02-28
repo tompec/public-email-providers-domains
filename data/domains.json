@@ -269,6 +269,35 @@
         ]
     },
     {
+        "name": "Centrum.cz",
+        "description": "Centrum.cz is a versatile Czech internet portal offering email, news, search, and entertainment services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "centrum.cz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "centrum-cz-10mx1.eco-mx.cz."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "centrum-cz-10mx2.eco-mx.cz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "centrum-cz-20mx1.eco-mx.cz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "centrum-cz-20mx2.eco-mx.cz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Cox Communications",
         "description": "Cox Communications, Inc.",
         "free": null,
@@ -3849,6 +3878,67 @@
         ]
     },
     {
+        "name": "I.ua",
+        "description": "I.ua is a Ukrainian online service offering email, news, search, and various web-based tools and features.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "i.ua",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx23.i.ua."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx24.i.ua."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx25.i.ua."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx26.i.ua."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx27.i.ua."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx28.i.ua."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx7.i.ua."
+                    },
+                    {
+                        "priority": "65535",
+                        "hostname": "mx13.i.ua."
+                    },
+                    {
+                        "priority": "65535",
+                        "hostname": "mx14.i.ua."
+                    },
+                    {
+                        "priority": "65535",
+                        "hostname": "mx21.i.ua."
+                    },
+                    {
+                        "priority": "65535",
+                        "hostname": "mx22.i.ua."
+                    },
+                    {
+                        "priority": "65535",
+                        "hostname": "out12.mi6.kiev.ua."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "iCloud",
         "description": "iCloud is a cloud service developed by Apple Inc.",
         "free": true,
@@ -3952,6 +4042,15 @@
                 ]
             },
             {
+                "domain": "inbox.lt",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.inbox.eu."
+                    }
+                ]
+            },
+            {
                 "domain": "inbox.lv",
                 "mxRecords": [
                     {
@@ -3961,6 +4060,23 @@
                     {
                         "priority": "1",
                         "hostname": "mx2.inbox.lv."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Infomaniak",
+        "description": "Infomaniak Network is Switzerland's largest web-hosting company, also offering live-streaming and video on demand services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "ik.me",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mta-gw.infomaniak.ch."
                     }
                 ]
             }
@@ -4044,6 +4160,19 @@
         "domains": [
             {
                 "domain": "juno.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dca.untd.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx.vgs.untd.com."
+                    }
+                ]
+            },
+            {
+                "domain": "netzero.net",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -7007,6 +7136,23 @@
         ]
     },
     {
+        "name": "OnMail",
+        "description": "OnMail is an email service that emphasizes privacy, allowing users to control who can send them emails and offering a clutter-free inbox experience.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "onmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.onmail.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Optimum (cable brand)",
         "description": "Optimum is an American telecommunications brand owned and operated by Altice USA. It is the fourth largest cable provider in the United States and a Fortune 500 company.",
         "free": null,
@@ -7241,6 +7387,15 @@
                 ]
             },
             {
+                "domain": "hotmail.gr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "hotmail.it",
                 "mxRecords": [
                     {
@@ -7269,6 +7424,15 @@
             },
             {
                 "domain": "hotmail.se",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "live.at",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -7614,11 +7778,29 @@
                 ]
             },
             {
+                "domain": "outlook.hu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
                 "domain": "outlook.ie",
                 "mxRecords": [
                     {
                         "priority": "10",
                         "hostname": "eur.olc.protection.outlook.com."
+                    }
+                ]
+            },
+            {
+                "domain": "outlook.in",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com."
                     }
                 ]
             },
@@ -7788,23 +7970,6 @@
         ]
     },
     {
-        "name": "Infomaniak",
-        "description": "Infomaniak Network is Switzerland's largest web-hosting company, also offering live-streaming and video on demand services.",
-        "free": null,
-        "verification": null,
-        "domains": [
-            {
-                "domain": "ik.me",
-                "mxRecords": [
-                    {
-                        "priority": "5",
-                        "hostname": "mta-gw.infomaniak.ch."
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Proximus Group",
         "description": "The Proximus Group is a provider of digital services and communication in Belgium and the international markets.",
         "free": null,
@@ -7848,6 +8013,15 @@
         },
         "domains": [
             {
+                "domain": "rediff.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.rediffmail.rediff.akadns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "rediffmail.com",
                 "mxRecords": [
                     {
@@ -7869,7 +8043,7 @@
                 "mxRecords": [
                     {
                         "priority": "5",
-                        "hostname": "mx.ptmail.sapo.pt."
+                        "hostname": "mx.sapo.pt."
                     }
                 ]
             }
@@ -7994,26 +8168,6 @@
                     {
                         "priority": "0",
                         "hostname": "shw-central.mx.a.cloudfilter.net."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Skiff (email service)",
-        "description": "Skiff is an end-to-end encrypted email service and collaboration tool.",
-        "free": true,
-        "verification": {
-            "sms": false,
-            "secondaryEmail": false
-        },
-        "domains": [
-            {
-                "domain": "skiff.com",
-                "mxRecords": [
-                    {
-                        "priority": "1",
-                        "hostname": "inbound-smtp.skiff.com."
                     }
                 ]
             }
@@ -8403,6 +8557,19 @@
         "verification": null,
         "domains": [
             {
+                "domain": "email.de",
+                "mxRecords": [
+                    {
+                        "priority": "100",
+                        "hostname": "mx-ha02.web.de."
+                    },
+                    {
+                        "priority": "100",
+                        "hostname": "mx-ha03.web.de."
+                    }
+                ]
+            },
+            {
                 "domain": "web.de",
                 "mxRecords": [
                     {
@@ -8537,6 +8704,15 @@
                 ]
             },
             {
+                "domain": "my.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxs.mail.ru."
+                    }
+                ]
+            },
+            {
                 "domain": "vk.com",
                 "mxRecords": [
                     {
@@ -8568,6 +8744,69 @@
                     {
                         "priority": "10",
                         "hostname": "mx5.vodafonemail.de."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Volny.cz",
+        "description": "Volny.cz is an online Czech portal offering email, news, weather, and various digital services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "volny.cz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "volny-cz-10mx1.eco-mx.cz."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "volny-cz-10mx2.eco-mx.cz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "volny-cz-20mx1.eco-mx.cz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "volny-cz-20mx2.eco-mx.cz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Walla!",
+        "description": "Walla! is an Israeli web portal offering news, entertainment, and digital content across various categories.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "walla.co.il",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx1.hc494-80.c3s2.iphmx.com."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "mx2.hc494-80.c3s2.iphmx.com."
+                    }
+                ]
+            },
+            {
+                "domain": "walla.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx1.hc49497.c3s2.iphmx.com."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "mx2.hc49497.c3s2.iphmx.com."
                     }
                 ]
             }
@@ -8830,6 +9069,23 @@
                 ]
             },
             {
+                "domain": "y7mail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
+                    }
+                ]
+            },
+            {
                 "domain": "yahoo.be",
                 "mxRecords": [
                     {
@@ -8900,6 +9156,23 @@
                     {
                         "priority": "1",
                         "hostname": "mx-apac.mail.gm0.yahoodns.net."
+                    }
+                ]
+            },
+            {
+                "domain": "yahoo.co.nz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta5.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta6.am0.yahoodns.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mta7.am0.yahoodns.net."
                     }
                 ]
             },

@@ -218,6 +218,23 @@
         ]
     },
     {
+        "name": "Atomicmail",
+        "description": "Free Email Service Designed for Security",
+        "free": true,
+        "verification": false,
+        "domains": [
+            {
+                "domain": "atomicmail.io",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail1.atomicmail.io."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Azet.",
         "description": "Azet.sk is a Slovak online portal. The portal currently manages 23 online services.",
         "free": null,
@@ -292,6 +309,35 @@
                     {
                         "priority": "20",
                         "hostname": "centrum-cz-20mx2.eco-mx.cz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Centrum.sk",
+        "description": "Centrum.sk is a Slovak web portal offering a variety of services, including news, blogs, and an email platform.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "centrum.sk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nm-sk-10mx1.eco-mx.cz."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "nm-sk-10mx2.eco-mx.cz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "nm-sk-20mx1.eco-mx.cz."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "nm-sk-20mx2.eco-mx.cz."
                     }
                 ]
             }

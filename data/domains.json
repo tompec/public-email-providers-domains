@@ -6896,6 +6896,77 @@
         ]
     },
     {
+        "name": "Mailo",
+        "description": "Mailo is a secure and privacy-focused email service designed for personal and professional communication.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "emailasso.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.mailo.com."
+                    }
+                ]
+            },
+            {
+                "domain": "francemel.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.mailo.com."
+                    }
+                ]
+            },
+            {
+                "domain": "lavache.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.mailo.com."
+                    }
+                ]
+            },
+            {
+                "domain": "mailo.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.mailo.com."
+                    }
+                ]
+            },
+            {
+                "domain": "monemail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.mailo.com."
+                    }
+                ]
+            },
+            {
+                "domain": "netc.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.mailo.com."
+                    }
+                ]
+            },
+            {
+                "domain": "netcourrier.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.mailo.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Meta.ua",
         "description": "Meta.ua is a comprehensive Ukrainian web portal offering search, email, news, and various online services.",
         "free": null,

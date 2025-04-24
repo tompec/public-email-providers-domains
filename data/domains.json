@@ -5605,19 +5605,6 @@
                 ]
             },
             {
-                "domain": "instruction.com",
-                "mxRecords": [
-                    {
-                        "priority": "10",
-                        "hostname": "mx00.mail.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx01.mail.com."
-                    }
-                ]
-            },
-            {
                 "domain": "instructor.net",
                 "mxRecords": [
                     {

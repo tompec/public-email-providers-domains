@@ -3933,52 +3933,16 @@
                 "domain": "i.ua",
                 "mxRecords": [
                     {
-                        "priority": "5",
-                        "hostname": "mx23.i.ua."
+                        "priority": "10",
+                        "hostname": "mx11.i.ua."
                     },
                     {
                         "priority": "10",
-                        "hostname": "mx24.i.ua."
+                        "hostname": "mx2.i.ua."
                     },
                     {
                         "priority": "10",
-                        "hostname": "mx25.i.ua."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx26.i.ua."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx27.i.ua."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx28.i.ua."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx7.i.ua."
-                    },
-                    {
-                        "priority": "65535",
-                        "hostname": "mx13.i.ua."
-                    },
-                    {
-                        "priority": "65535",
-                        "hostname": "mx14.i.ua."
-                    },
-                    {
-                        "priority": "65535",
-                        "hostname": "mx21.i.ua."
-                    },
-                    {
-                        "priority": "65535",
-                        "hostname": "mx22.i.ua."
-                    },
-                    {
-                        "priority": "65535",
-                        "hostname": "out12.mi6.kiev.ua."
+                        "hostname": "mx3.i.ua."
                     }
                 ]
             }
@@ -8312,15 +8276,11 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "mxbw-bluewin-ch.hdb-cs04.ellb.ch."
+                        "hostname": "mx01.p.bluenet.ch."
                     },
                     {
-                        "priority": "42",
-                        "hostname": "mx-v01.bluewin.ch."
-                    },
-                    {
-                        "priority": "42",
-                        "hostname": "mx-v02.bluewin.ch."
+                        "priority": "20",
+                        "hostname": "mx02.p.bluenet.ch."
                     }
                 ]
             }
@@ -8821,6 +8781,10 @@
                     {
                         "priority": "10",
                         "hostname": "mx5.vodafonemail.de."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx51.vodafonemail.de."
                     }
                 ]
             }

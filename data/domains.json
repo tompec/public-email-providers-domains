@@ -7182,6 +7182,50 @@
         ]
     },
     {
+        "name": "OnionMail",
+        "description": "OnionMail is an anonymous and encrypted email service operating through the Tor network.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "2mail.co",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxmail.2mail.co."
+                    }
+                ]
+            },
+            {
+                "domain": "mail2tor.co",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxmail.mail2tor.co."
+                    }
+                ]
+            },
+            {
+                "domain": "onionmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mail.onionmail.com."
+                    }
+                ]
+            },
+            {
+                "domain": "onionmail.org",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxmail.onionmail.org."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "OnMail",
         "description": "OnMail is an email service that emphasizes privacy, allowing users to control who can send them emails and offering a clutter-free inbox experience.",
         "free": null,

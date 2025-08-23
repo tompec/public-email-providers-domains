@@ -1,5 +1,22 @@
 [
     {
+        "name": "A1 Telekom Austria",
+        "description": "A1 Telekom Austria is Austria\u2019s leading integrated telecom provider, delivering mobile, fixed-line, broadband internet, TV, and ICT services to consumers and businesses.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "aon.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smx01.a1.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "ABV Mail",
         "description": "ABV Mail, also known as ABV Pochta, is a Bulgarian web-based email service that offers free email accounts to users.",
         "free": true,
@@ -156,20 +173,8 @@
                 "domain": "att.net",
                 "mxRecords": [
                     {
-                        "priority": "5",
-                        "hostname": "al-ip4-mx-vip1.prodigy.net."
-                    },
-                    {
-                        "priority": "5",
-                        "hostname": "al-ip4-mx-vip2.prodigy.net."
-                    },
-                    {
-                        "priority": "5",
-                        "hostname": "ff-ip4-mx-vip1.prodigy.net."
-                    },
-                    {
-                        "priority": "5",
-                        "hostname": "ff-ip4-mx-vip2.prodigy.net."
+                        "priority": "10",
+                        "hostname": "mx-att.mail.am0.yahoodns.net."
                     }
                 ]
             },
@@ -178,19 +183,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "al-ip4-mx-vip1.prodigy.net."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "al-ip4-mx-vip2.prodigy.net."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "ff-ip4-mx-vip1.prodigy.net."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "ff-ip4-mx-vip2.prodigy.net."
+                        "hostname": "mx-att.mail.am0.yahoodns.net."
                     }
                 ]
             },
@@ -199,19 +192,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "al-ip4-mx-vip1.prodigy.net."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "al-ip4-mx-vip2.prodigy.net."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "ff-ip4-mx-vip1.prodigy.net."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "ff-ip4-mx-vip2.prodigy.net."
+                        "hostname": "mx-att.mail.am0.yahoodns.net."
                     }
                 ]
             }
@@ -229,6 +210,72 @@
                     {
                         "priority": "10",
                         "hostname": "mail1.atomicmail.io."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "au",
+        "description": "au is KDDI\u2019s Japanese telecom brand offering mobile, broadband, and digital services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "au.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx05.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx06.au.com."
+                    }
+                ]
+            },
+            {
+                "domain": "ezweb.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx05.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx06.au.com."
                     }
                 ]
             }
@@ -280,6 +327,23 @@
                     {
                         "priority": "20",
                         "hostname": "mx3.bol.com.br."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BT",
+        "description": "BT is a leading UK telecommunications provider offering broadband, mobile, landline, TV, and enterprise network and IT services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "btopenworld.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx.bt.prod.cloud.openwave.ai."
                     }
                 ]
             }
@@ -338,6 +402,48 @@
                     {
                         "priority": "20",
                         "hostname": "nm-sk-20mx2.eco-mx.cz."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "China Mobile",
+        "description": "China Mobile is China\u2019s state-owned telecom operator providing mobile voice and data, 5G, broadband, and IoT services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "139.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx1.mail.139.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.mail.139.com."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx3.mail.139.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "China Telecom",
+        "description": "China Telecom is a state-owned Chinese telecom giant providing broadband, mobile, cloud, and enterprise network services across China and globally.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "21cn.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta.21cn.com."
                     }
                 ]
             }
@@ -1327,15 +1433,15 @@
                         "hostname": "mx01.earthlink-vadesecure.net."
                     },
                     {
-                        "priority": "5",
+                        "priority": "10",
                         "hostname": "mx02.earthlink-vadesecure.net."
                     },
                     {
-                        "priority": "5",
+                        "priority": "20",
                         "hostname": "mx03.earthlink-vadesecure.net."
                     },
                     {
-                        "priority": "5",
+                        "priority": "30",
                         "hostname": "mx04.earthlink-vadesecure.net."
                     }
                 ]
@@ -1936,15 +2042,15 @@
                         "hostname": "mx01.earthlink-vadesecure.net."
                     },
                     {
-                        "priority": "5",
+                        "priority": "10",
                         "hostname": "mx02.earthlink-vadesecure.net."
                     },
                     {
-                        "priority": "5",
+                        "priority": "20",
                         "hostname": "mx03.earthlink-vadesecure.net."
                     },
                     {
-                        "priority": "5",
+                        "priority": "30",
                         "hostname": "mx04.earthlink-vadesecure.net."
                     }
                 ]
@@ -2031,6 +2137,23 @@
         ]
     },
     {
+        "name": "Freemail",
+        "description": "Freemail is a free email service offering secure, reliable messaging with spam protection and seamless access across devices.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "freemail.hu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fmx.freemail.hu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Freenet AG",
         "description": "Freenet AG (formerly freenet.de AG) is a German telecommunications and web content provider.",
         "free": true,
@@ -2041,7 +2164,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "emig.freenet.de."
+                        "hostname": "mx.freenet.de."
                     }
                 ]
             },
@@ -2050,7 +2173,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "emig.freenet.de."
+                        "hostname": "mx.freenet.de."
                     }
                 ]
             },
@@ -2059,7 +2182,7 @@
                 "mxRecords": [
                     {
                         "priority": "1",
-                        "hostname": "emig.freenet.de."
+                        "hostname": "mx.freenet.de."
                     }
                 ]
             },
@@ -2068,7 +2191,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "emig.freenet.de."
+                        "hostname": "mx.freenet.de."
                     }
                 ]
             },
@@ -2077,7 +2200,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "emig.freenet.de."
+                        "hostname": "mx.freenet.de."
                     }
                 ]
             },
@@ -2086,7 +2209,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "emig.freenet.de."
+                        "hostname": "mx.freenet.de."
                     }
                 ]
             }
@@ -8286,6 +8409,73 @@
         ]
     },
     {
+        "name": "Sina",
+        "description": "Sina is a leading Chinese online media company that provides news, entertainment, and social networking services, including the microblogging platform Weibo.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "sina.cn",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "freemx1.sinamail.sina.com.cn."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "freemx2.sinamail.sina.com.cn."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "freemx3.sinamail.sina.com.cn."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SoftBank",
+        "description": "SoftBank is a Japanese telecom operator and global technology investor that delivers mobile and broadband services while backing innovative companies worldwide.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "i.softbank.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "msv.softbank.jp."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sohu",
+        "description": "Sohu is a Chinese web portal providing news, video streaming, entertainment, sports coverage, and online gaming services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "sohu.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "sohumx1.sohu.com."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "sohumx2.sohu.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "sohumx.h.a.sohu.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Spark New Zealand",
         "description": "Spark New Zealand is a leading telecommunications and digital services provider offering mobile, internet, and entertainment solutions.",
         "free": null,
@@ -8387,6 +8577,35 @@
         ]
     },
     {
+        "name": "TalkTalk",
+        "description": "TalkTalk is a UK telecommunications company providing broadband, phone, and TV services for homes and businesses.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "talktalk.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx001.tt.xion.oxcs.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx002.tt.xion.oxcs.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx003.tt.xion.oxcs.net."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx004.tt.xion.oxcs.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Telecom Italia Mobile",
         "description": "Telecom Italia Mobile S.p.A., commonly known as TIM, is an Italian telecommunications company owned by Telecom Italia S.p.A. Founded as a mobile telephony company in 1995, since 2015 it provides mobile, fixed telephony, and Internet services.4G is available in 6,849 cities (96.3% of the country).",
         "free": null,
@@ -8419,6 +8638,35 @@
                     {
                         "priority": "10",
                         "hostname": "mx2.telenet-ops.be."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Telenor",
+        "description": "Telenor is a leading global telecommunications company offering mobile, broadband, and digital services to consumers and businesses.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "online.no",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1c60.megamailservers.eu."
+                    },
+                    {
+                        "priority": "100",
+                        "hostname": "mx2c60.megamailservers.eu."
+                    },
+                    {
+                        "priority": "110",
+                        "hostname": "mx3c60.megamailservers.eu."
+                    },
+                    {
+                        "priority": "120",
+                        "hostname": "mx4c60.megamailservers.eu."
                     }
                 ]
             }
@@ -8479,6 +8727,39 @@
                     {
                         "priority": "0",
                         "hostname": "extmail.bpbb.bigpond.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TELUS",
+        "description": "TELUS is a Canadian telecommunications company providing wireless, internet, TV, and digital health services.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "telus.net",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "aspmx.l.google.com."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "alt1.aspmx.l.google.com."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "alt2.aspmx.l.google.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "alt3.aspmx.l.google.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "alt4.aspmx.l.google.com."
                     }
                 ]
             }
@@ -8704,6 +8985,23 @@
                     {
                         "priority": "10",
                         "hostname": "mx.uol.com.br."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Videotron",
+        "description": "Videotron is a Canadian telecommunications provider offering mobile, internet, television, and home phone services, primarily in Quebec.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "videotron.ca",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.videotron.ca."
                     }
                 ]
             }

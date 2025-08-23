@@ -4030,6 +4030,23 @@
         ]
     },
     {
+        "name": "Guangzhou Duoyi Network",
+        "description": "2925.com is a Chinese email service operated by Guangzhou Duoyi Network Co., Ltd., offering unlimited sub-addresses under one main account.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "2925.com",
+                "mxRecords": [
+                    {
+                        "priority": "9",
+                        "hostname": "mailmx01.2925.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Hey (email service)",
         "description": "HEY is a premium email service launched by Basecamp in June 2020.",
         "free": false,

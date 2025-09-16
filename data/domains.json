@@ -231,22 +231,6 @@
                     {
                         "priority": "10",
                         "hostname": "mx02.au.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx03.au.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx04.au.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx05.au.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx06.au.com."
                     }
                 ]
             },
@@ -260,22 +244,6 @@
                     {
                         "priority": "10",
                         "hostname": "mx02.au.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx03.au.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx04.au.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx05.au.com."
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "mx06.au.com."
                     }
                 ]
             }
@@ -2094,6 +2062,230 @@
                     {
                         "priority": "5",
                         "hostname": "mx04.earthlink-vadesecure.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "eclipso Mail Europe",
+        "description": "Provide secure email, cloud storage, and office tools focused on privacy",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "eclipso.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.be",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.email",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.es",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.me",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipso.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipsomail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "eclipsomail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "maileurope.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "maileurope.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "maileurope.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "maileurope.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "maileurope.es",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "maileurope.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "maileurope.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "maileurope.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.eclipso.de."
+                    }
+                ]
+            },
+            {
+                "domain": "teamvielfalt.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.teamvielfalt.eu."
                     }
                 ]
             }

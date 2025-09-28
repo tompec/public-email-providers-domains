@@ -18966,6 +18966,123 @@
         },
         "domains": [
             {
+                "domain": "8alias.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "8shield.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "aleeas.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "dralias.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "pass2mail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "passfwd.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "passinbox.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "passmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "passmail.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
                 "domain": "pm.me",
                 "mxRecords": [
                     {
@@ -19014,6 +19131,97 @@
                     {
                         "priority": "10",
                         "hostname": "mailsec.protonmail.ch."
+                    }
+                ]
+            },
+            {
+                "domain": "silomails.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "simplelogin.co",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "simplelogin.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "simplelogin.fr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "simplelogin.io",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "slmail.me",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
+                    }
+                ]
+            },
+            {
+                "domain": "slmails.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.simplelogin.co."
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.simplelogin.co."
                     }
                 ]
             }

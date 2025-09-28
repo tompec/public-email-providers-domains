@@ -19730,6 +19730,286 @@
         ]
     },
     {
+        "name": "Telmex",
+        "description": "Telmex is a Mexican telecommunications provider offering fixed-line phone, high-speed internet, and data services for homes and businesses.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "correoinfinitum.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "correoprodigy.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "cycsa.servicioscorreo.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "eninfinitum.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "fetcorp.mitmx.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "infinitum.com.mx",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "infinitummail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "infinitumzone.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "prodigy.net.mx",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "prodigymovil.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "prodigywifi.com.mx",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "serrano1.mitmx.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "servicios.telmex.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "teleco.servicioscorreo.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "telmexmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            },
+            {
+                "domain": "telnormail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "publicms1.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms2.mail2world.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "publicms3.mail2world.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Telstra",
         "description": "Telstra Group Limited is an Australian telecommunications company that builds and operates telecommunications networks and markets related products and services.",
         "free": null,

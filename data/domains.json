@@ -226,11 +226,19 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "mx01.au.com."
+                        "hostname": "mx03.au.com."
                     },
                     {
                         "priority": "10",
-                        "hostname": "mx02.au.com."
+                        "hostname": "mx04.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx05.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx06.au.com."
                     }
                 ]
             },
@@ -239,11 +247,19 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "mx01.au.com."
+                        "hostname": "mx03.au.com."
                     },
                     {
                         "priority": "10",
-                        "hostname": "mx02.au.com."
+                        "hostname": "mx04.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx05.au.com."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx06.au.com."
                     }
                 ]
             }
@@ -17905,6 +17921,81 @@
         ]
     },
     {
+        "name": "Mail\u2011Online",
+        "description": "Mail-Online.dk is a Danish ad-free webmail service offering secure email hosting with large storage, spam filtering, and calendar/contact tools under Danish privacy laws.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "mail-online.cz",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail-online.cz."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mail.mail-online.cz."
+                    }
+                ]
+            },
+            {
+                "domain": "mail-online.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.mail-online.dk."
+                    }
+                ]
+            },
+            {
+                "domain": "mail-online.email",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.mail-online.email."
+                    }
+                ]
+            },
+            {
+                "domain": "mail-online.se",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.mail-online.se."
+                    }
+                ]
+            },
+            {
+                "domain": "mail.world",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.mail.world."
+                    }
+                ]
+            },
+            {
+                "domain": "post-online.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.post-online.dk."
+                    }
+                ]
+            },
+            {
+                "domain": "weekonline.com",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.weekonline.com."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Meta.ua",
         "description": "Meta.ua is a comprehensive Ukrainian web portal offering search, email, news, and various online services.",
         "free": null,
@@ -19516,6 +19607,27 @@
         ]
     },
     {
+        "name": "Spike",
+        "description": "Spike turns email into a chat-like workspace, combining inbox, messaging, collaborative notes, tasks, and video meetings to streamline team communication.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "spike.team",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxc.bolt.im."
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxd.bolt.im."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Sunrise Communications",
         "description": "Sunrise Communications provides comprehensive telecommunication services, including mobile, internet, and digital TV solutions.",
         "free": null,
@@ -20453,10 +20565,6 @@
                     {
                         "priority": "10",
                         "hostname": "mx5.vodafonemail.de."
-                    },
-                    {
-                        "priority": "20",
-                        "hostname": "mx51.vodafonemail.de."
                     }
                 ]
             }

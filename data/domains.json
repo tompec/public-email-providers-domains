@@ -19985,6 +19985,81 @@
         ]
     },
     {
+        "name": "Spectrum",
+        "description": "Spectrum provides high-speed internet, cable TV, and home phone service with wide coverage and flexible plans.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "adelphia.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "pkvw-mx.msg.pkvw.co.charter.net."
+                    }
+                ]
+            },
+            {
+                "domain": "brighthouse.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "pkvw-mx.msg.pkvw.co.charter.net."
+                    }
+                ]
+            },
+            {
+                "domain": "charter.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx0.charter.net."
+                    }
+                ]
+            },
+            {
+                "domain": "roadrunner.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "pkvw-mx.msg.pkvw.co.charter.net."
+                    }
+                ]
+            },
+            {
+                "domain": "rr.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "cdptpa-postmx01.email.rr.com."
+                    },
+                    {
+                        "priority": "5",
+                        "hostname": "dnvrco-postmx01.email.rr.com."
+                    }
+                ]
+            },
+            {
+                "domain": "spectrum.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx0.charter.net."
+                    }
+                ]
+            },
+            {
+                "domain": "twc.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "pkvw-mx.msg.pkvw.co.charter.net."
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Spike",
         "description": "Spike turns email into a chat-like workspace, combining inbox, messaging, collaborative notes, tasks, and video meetings to streamline team communication.",
         "free": true,
@@ -20940,6 +21015,10 @@
             {
                 "domain": "arcor.de",
                 "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.vodafonemail.de."
+                    },
                     {
                         "priority": "10",
                         "hostname": "mx5.vodafonemail.de."

@@ -18100,8 +18100,11 @@
     {
         "name": "Naver",
         "description": "Naver is a popular South Korean online platform offering search engine services, news, and more.",
-        "free": null,
-        "verification": null,
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
         "domains": [
             {
                 "domain": "naver.com",

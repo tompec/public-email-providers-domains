@@ -21816,6 +21816,15 @@
                         "hostname": "mx.yandex.ru."
                     }
                 ]
+            },
+            {
+                "domain": "ya.ru",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx.yandex.ru."
+                    }
+                ]
             }
         ]
     },

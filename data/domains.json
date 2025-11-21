@@ -347,6 +347,24 @@
         ]
     },
     {
+        "name": "au",
+        "description": "au is KDDI's internet service provider brand in Japan, offering broadband, email, and web hosting services.",
+        "free": true,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": false
+        },
+        "domains": {
+            "domain": "auone-net.jp",
+            "mxRecords": [
+                {
+                    "priority": 10,
+                    "hostname": "fa1217.secure.jp"
+                }
+            ]
+        }
+    },
+    {
         "name": "Azet.",
         "description": "Azet.sk is a Slovak online portal. The portal currently manages 23 online services.",
         "free": null,

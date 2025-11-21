@@ -6238,6 +6238,80 @@
         ]
     },
     {
+        "name": "Kakao",
+        "description": "Kakao is a comprehensive South Korean business group offering search engine services, news, messangers, and more.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "daum.net",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx1.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx2.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx3.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx4.hanmail.net"
+                    }
+                ]
+            },
+            {
+                "domain": "hanmail.net",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx1.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx2.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx3.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx4.hanmail.net"
+                    }
+                ]
+            },
+            {
+                "domain": "kakao.com",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx1.kakao.com"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx2.kakao.com"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx3.kakao.com"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx4.kakao.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Kolab Now",
         "description": "Kolab Now is a web-based email and groupware service, based completely on free and open-source software.",
         "free": false,

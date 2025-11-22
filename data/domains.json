@@ -22031,6 +22031,23 @@
                         "hostname": "mx3.zoho.eu"
                     }
                 ]
+            },
+            {
+                "domain": "zohomail.in",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtpin.zoho.in"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "smtpin2.zoho.in"
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "smtpin3.zoho.in"
+                    }
+                ]
             }
         ]
     }

@@ -6250,20 +6250,20 @@
                 "domain": "daum.net",
                 "mxRecords": [
                     {
-                        "priority": 10,
-                        "hostname": "mx1.hanmail.net"
+                        "priority": "10",
+                        "hostname": "mx1.hanmail.net."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx2.hanmail.net"
+                        "priority": "10",
+                        "hostname": "mx2.hanmail.net."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx3.hanmail.net"
+                        "priority": "10",
+                        "hostname": "mx3.hanmail.net."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx4.hanmail.net"
+                        "priority": "10",
+                        "hostname": "mx4.hanmail.net."
                     }
                 ]
             },
@@ -6271,20 +6271,20 @@
                 "domain": "hanmail.net",
                 "mxRecords": [
                     {
-                        "priority": 10,
-                        "hostname": "mx1.hanmail.net"
+                        "priority": "10",
+                        "hostname": "mx1.hanmail.net."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx2.hanmail.net"
+                        "priority": "10",
+                        "hostname": "mx2.hanmail.net."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx3.hanmail.net"
+                        "priority": "10",
+                        "hostname": "mx3.hanmail.net."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx4.hanmail.net"
+                        "priority": "10",
+                        "hostname": "mx4.hanmail.net."
                     }
                 ]
             },
@@ -6292,20 +6292,20 @@
                 "domain": "kakao.com",
                 "mxRecords": [
                     {
-                        "priority": 10,
-                        "hostname": "mx1.kakao.com"
+                        "priority": "10",
+                        "hostname": "mx1.kakao.com."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx2.kakao.com"
+                        "priority": "10",
+                        "hostname": "mx2.kakao.com."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx3.kakao.com"
+                        "priority": "10",
+                        "hostname": "mx3.kakao.com."
                     },
                     {
-                        "priority": 10,
-                        "hostname": "mx4.kakao.com"
+                        "priority": "10",
+                        "hostname": "mx4.kakao.com."
                     }
                 ]
             }
@@ -18184,8 +18184,8 @@
                 "domain": "nate.com",
                 "mxRecords": [
                     {
-                        "priority": 10,
-                        "hostname": "mx1.nate.com"
+                        "priority": "10",
+                        "hostname": "mx1.nate.com."
                     }
                 ]
             }
@@ -21882,6 +21882,15 @@
         },
         "domains": [
             {
+                "domain": "ya.ru",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.yandex.ru."
+                    }
+                ]
+            },
+            {
                 "domain": "yandex.by",
                 "mxRecords": [
                     {
@@ -21913,15 +21922,6 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "mx.yandex.ru."
-                    }
-                ]
-            },
-            {
-                "domain": "ya.ru",
-                "mxRecords": [
-                    {
-                        "priority": 10,
                         "hostname": "mx.yandex.ru."
                     }
                 ]

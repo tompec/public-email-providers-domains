@@ -6256,6 +6256,80 @@
         ]
     },
     {
+        "name": "Kakao",
+        "description": "Kakao is a comprehensive South Korean business group offering search engine services, news, messangers, and more.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "daum.net",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx1.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx2.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx3.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx4.hanmail.net"
+                    }
+                ]
+            },
+            {
+                "domain": "hanmail.net",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx1.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx2.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx3.hanmail.net"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx4.hanmail.net"
+                    }
+                ]
+            },
+            {
+                "domain": "kakao.com",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx1.kakao.com"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx2.kakao.com"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx3.kakao.com"
+                    },
+                    {
+                        "priority": 10,
+                        "hostname": "mx4.kakao.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Kolab Now",
         "description": "Kolab Now is a web-based email and groupware service, based completely on free and open-source software.",
         "free": false,
@@ -18116,10 +18190,33 @@
         ]
     },
     {
+        "name": "Nate",
+        "description": "Nate is a South Korean web portal and online service provider offering email, news, and various internet services.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "nate.com",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx1.nate.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Naver",
         "description": "Naver is a popular South Korean online platform offering search engine services, news, and more.",
-        "free": null,
-        "verification": null,
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
         "domains": [
             {
                 "domain": "naver.com",
@@ -20654,8 +20751,11 @@
     {
         "name": "Tencent",
         "description": "Tencent Holdings Ltd.",
-        "free": null,
-        "verification": null,
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
         "domains": [
             {
                 "domain": "foxmail.com",
@@ -21831,6 +21931,15 @@
                 "mxRecords": [
                     {
                         "priority": "10",
+                        "hostname": "mx.yandex.ru."
+                    }
+                ]
+            },
+            {
+                "domain": "ya.ru",
+                "mxRecords": [
+                    {
+                        "priority": 10,
                         "hostname": "mx.yandex.ru."
                     }
                 ]

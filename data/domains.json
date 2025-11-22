@@ -324,6 +324,15 @@
                 ]
             },
             {
+                "domain": "auone-net.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fa1217.secure.jp"
+                    }
+                ]
+            },
+            {
                 "domain": "ezweb.ne.jp",
                 "mxRecords": [
                     {

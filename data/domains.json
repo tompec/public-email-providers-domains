@@ -20639,8 +20639,11 @@
     {
         "name": "Tencent",
         "description": "Tencent Holdings Ltd.",
-        "free": null,
-        "verification": null,
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": false
+        },
         "domains": [
             {
                 "domain": "foxmail.com",

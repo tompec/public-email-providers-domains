@@ -355,11 +355,11 @@
             "secondaryEmail": false
         },
         "domains": {
-            "domain": "auone-net.jp",
+            "domain": "ab.auone-net.jp",
             "mxRecords": [
                 {
                     "priority": 10,
-                    "hostname": "fa1217.secure.jp"
+                    "hostname": "mx03.auone-net.jp"
                 }
             ]
         }

@@ -354,15 +354,17 @@
             "sms": false,
             "secondaryEmail": false
         },
-        "domains": {
-            "domain": "ab.auone-net.jp",
-            "mxRecords": [
-                {
-                    "priority": 10,
-                    "hostname": "mx03.auone-net.jp"
-                }
-            ]
-        }
+        "domains": [
+            {
+                "domain": "ab.auone-net.jp",
+                "mxRecords": [
+                    {
+                        "priority": 10,
+                        "hostname": "mx03.auone-net.jp"
+                    }
+                ]
+            }
+        ]
     },
     {
         "name": "Azet.",

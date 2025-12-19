@@ -165,8 +165,8 @@
     },
     {
         "name": "AT&T",
-        "description": "AT&T Inc.",
-        "free": null,
+        "description": "AT&T Inc. offers free email service with 1TB storage, including legacy sbcglobal.net addresses.",
+        "free": true,
         "verification": null,
         "domains": [
             {

@@ -22088,8 +22088,8 @@
     },
     {
         "name": "Zoho Corporation",
-        "description": "Zoho Corporation, is an Indian multinational technology company that makes computer software and web-based business tools.",
-        "free": null,
+        "description": "Zoho Corporation, is an Indian multinational technology company that makes computer software and web-based business tools. Offers free tier for Mail with 5GB storage for up to 5 users.",
+        "free": true,
         "verification": null,
         "domains": [
             {

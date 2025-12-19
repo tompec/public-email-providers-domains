@@ -424,6 +424,15 @@
         "verification": null,
         "domains": [
             {
+                "domain": "btinternet.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx.bt.prod.cloud.openwave.ai"
+                    }
+                ]
+            },
+            {
                 "domain": "btopenworld.com",
                 "mxRecords": [
                     {
@@ -18685,6 +18694,15 @@
                 ]
             },
             {
+                "domain": "orange.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "custmx.cscdns.net"
+                    }
+                ]
+            },
+            {
                 "domain": "wanadoo.fr",
                 "mxRecords": [
                     {
@@ -20019,6 +20037,24 @@
         ]
     },
     {
+        "name": "Rogers Communications",
+        "country": "CA",
+        "description": "Rogers Communications is a major Canadian telecommunications company providing internet, mobile, and TV services with Yahoo-hosted email for customers.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "rogers.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-rogers.mail.am0.yahoodns.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "SAPO",
         "country": "PT",
         "description": "Sapo is a Portuguese portal and provider of products and services for the Internet. Founded in 1995 as a search engine, it is the largest internet portal in Portugal.",
@@ -20202,6 +20238,28 @@
                     {
                         "priority": "10",
                         "hostname": "freemx3.sinamail.sina.com.cn"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sky Italia",
+        "country": "IT",
+        "description": "Sky Italia is an Italian telecommunications company offering broadband, TV, and email services to consumers.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "sky.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxa-009f8f01.gslb.pphosted.com"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxb-009f8f01.gslb.pphosted.com"
                     }
                 ]
             }
@@ -21225,6 +21283,32 @@
             },
             {
                 "domain": "ntlworld.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxin5.virginmedia.com"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin10.virginmedia.com"
+                    }
+                ]
+            },
+            {
+                "domain": "virgin.net",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxin5.virginmedia.com"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin10.virginmedia.com"
+                    }
+                ]
+            },
+            {
+                "domain": "virginmedia.com",
                 "mxRecords": [
                     {
                         "priority": "5",

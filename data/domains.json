@@ -18550,8 +18550,8 @@
     },
     {
         "name": "OnMail",
-        "description": "OnMail is an email service that emphasizes privacy, allowing users to control who can send them emails and offering a clutter-free inbox experience.",
-        "free": null,
+        "description": "OnMail was an email service that emphasized privacy, allowing users to control who can send them emails. Service discontinued July 31, 2025.",
+        "free": false,
         "verification": null,
         "domains": [
             {

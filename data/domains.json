@@ -20345,8 +20345,8 @@
     },
     {
         "name": "T-Online",
-        "description": "t-online.de is a German news portal, owned and published by digital multi-channel media company Str\u00f6er.",
-        "free": null,
+        "description": "t-online.de is a German news portal offering free email with 1GB storage and spam/virus protection.",
+        "free": true,
         "verification": null,
         "domains": [
             {

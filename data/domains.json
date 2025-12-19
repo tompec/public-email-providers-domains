@@ -550,8 +550,8 @@
     },
     {
         "name": "EarthLink",
-        "description": "EarthLink is an American Internet service provider.It went public on NASDAQ in January 1997.",
-        "free": null,
+        "description": "EarthLink is an American Internet service provider offering free email for customers and legacy account holders.",
+        "free": true,
         "verification": null,
         "domains": [
             {

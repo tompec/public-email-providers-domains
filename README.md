@@ -14,6 +14,7 @@ Each item in the list is a JSON object with the following structure:
 ```json
 {
     "name": "Provider Name",
+    "country": "US",
     "description": "Provider Description",
     "free": true,
     "verification": {
@@ -39,6 +40,7 @@ Each item in the list is a JSON object with the following structure:
 | Field | Type | Description |
 | ----- | ---- | ----------- |
 | `name` | `string` | The name of the email provider. |
+| `country` | `string` | The ISO 3166-1 alpha-2 country code of the provider's legal entity (e.g., `US`, `DE`, `GB`). For subsidiaries, uses the ultimate parent company's country. |
 | `description` | `string` | A short description of the email provider. |
 | `free` | `boolean` | Whether or not the email provider is free to use. |
 | `verification` | `object` | An object containing information about the verification methods required by the email provider. |

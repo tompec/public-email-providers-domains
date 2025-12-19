@@ -1,6 +1,7 @@
 [
     {
         "name": "A1 Telekom Austria",
+        "country": "AT",
         "description": "A1 Telekom Austria is Austria\u2019s leading integrated telecom provider, delivering mobile, fixed-line, broadband internet, TV, and ICT services to consumers and businesses.",
         "free": null,
         "verification": null,
@@ -18,6 +19,7 @@
     },
     {
         "name": "ABV Mail",
+        "country": "BG",
         "description": "ABV Mail, also known as ABV Pochta, is a Bulgarian web-based email service that offers free email accounts to users.",
         "free": true,
         "verification": null,
@@ -65,6 +67,7 @@
     },
     {
         "name": "Agora S.A.",
+        "country": "PL",
         "description": "Agora S.A. provides diverse media and communication services, including print, online, and radio, to engage and inform the public in Poland.",
         "free": null,
         "verification": null,
@@ -82,6 +85,7 @@
     },
     {
         "name": "AOL Mail",
+        "country": "US",
         "description": "AOL Mail (stylized as Aol Mail.) is a free web-based email service provided by AOL, a division of Yahoo!",
         "free": true,
         "verification": {
@@ -165,6 +169,7 @@
     },
     {
         "name": "AT&T",
+        "country": "US",
         "description": "AT&T Inc. offers free email service with 1TB storage, including legacy sbcglobal.net addresses.",
         "free": true,
         "verification": null,
@@ -281,6 +286,7 @@
     },
     {
         "name": "Atomicmail",
+        "country": "EE",
         "description": "Free Email Service Designed for Security",
         "free": true,
         "verification": false,
@@ -298,6 +304,7 @@
     },
     {
         "name": "au",
+        "country": "JP",
         "description": "au is KDDI\u2019s Japanese telecom brand offering mobile, broadband, and digital services.",
         "free": null,
         "verification": null,
@@ -357,6 +364,7 @@
     },
     {
         "name": "Azet.",
+        "country": "SK",
         "description": "Azet.sk is a Slovak online portal. The portal currently manages 23 online services.",
         "free": null,
         "verification": null,
@@ -374,6 +382,7 @@
     },
     {
         "name": "Bell Internet",
+        "country": "CA",
         "description": "Bell Internet, originally and frequently still called Sympatico, is the residential Internet service provider (ISP) division of BCE Inc.",
         "free": null,
         "verification": null,
@@ -391,6 +400,7 @@
     },
     {
         "name": "Brasil Online",
+        "country": "BR",
         "description": "Brasil Online (BOL) is an Internet portal that provides email hosting and free email services UOL.\n\n\n== History ==\nIn April 1996, BOL was launched in Brazil by Grupo Abril, one of the largest Communication Holdings in Brazil.",
         "free": null,
         "verification": null,
@@ -408,6 +418,7 @@
     },
     {
         "name": "BT",
+        "country": "GB",
         "description": "BT is a leading UK telecommunications provider offering broadband, mobile, landline, TV, and enterprise network and IT services.",
         "free": null,
         "verification": null,
@@ -425,6 +436,7 @@
     },
     {
         "name": "Centrum.cz",
+        "country": "CZ",
         "description": "Centrum.cz is a versatile Czech internet portal offering email, news, search, and entertainment services.",
         "free": null,
         "verification": null,
@@ -454,6 +466,7 @@
     },
     {
         "name": "Centrum.sk",
+        "country": "SK",
         "description": "Centrum.sk is a Slovak web portal offering a variety of services, including news, blogs, and an email platform.",
         "free": null,
         "verification": null,
@@ -483,6 +496,7 @@
     },
     {
         "name": "China Mobile",
+        "country": "CN",
         "description": "China Mobile is China\u2019s state-owned telecom operator providing mobile voice and data, 5G, broadband, and IoT services.",
         "free": null,
         "verification": null,
@@ -508,6 +522,7 @@
     },
     {
         "name": "China Telecom",
+        "country": "CN",
         "description": "China Telecom is a state-owned Chinese telecom giant providing broadband, mobile, cloud, and enterprise network services across China and globally.",
         "free": null,
         "verification": null,
@@ -525,6 +540,7 @@
     },
     {
         "name": "Cox Communications",
+        "country": "US",
         "description": "Cox Communications email service transitioned to Yahoo Mail. Cox.net addresses remain active on Yahoo infrastructure, free for Cox customers.",
         "free": true,
         "verification": null,
@@ -550,6 +566,7 @@
     },
     {
         "name": "EarthLink",
+        "country": "US",
         "description": "EarthLink is an American Internet service provider offering free email for customers and legacy account holders.",
         "free": true,
         "verification": null,
@@ -2175,6 +2192,7 @@
     },
     {
         "name": "eclipso Mail Europe",
+        "country": "DE",
         "description": "Provide secure email, cloud storage, and office tools focused on privacy",
         "free": true,
         "verification": null,
@@ -2399,6 +2417,7 @@
     },
     {
         "name": "Fastmail",
+        "country": "AU",
         "description": "Fastmail is an email hosting company based in Melbourne, Australia.",
         "free": false,
         "verification": {
@@ -4048,6 +4067,7 @@
     },
     {
         "name": "Freemail",
+        "country": "HU",
         "description": "Freemail is a free email service offering secure, reliable messaging with spam protection and seamless access across devices.",
         "free": null,
         "verification": null,
@@ -4065,6 +4085,7 @@
     },
     {
         "name": "Freenet AG",
+        "country": "DE",
         "description": "Freenet AG (formerly freenet.de AG) is a German telecommunications and web content provider.",
         "free": true,
         "verification": null,
@@ -4127,6 +4148,7 @@
     },
     {
         "name": "Gmail",
+        "country": "US",
         "description": "Gmail is a free email service provided by Google.",
         "free": true,
         "verification": {
@@ -4188,6 +4210,7 @@
     },
     {
         "name": "GMX Mail",
+        "country": "DE",
         "description": "GMX Mail is a free advertising-supported email service provided by GMX (Global Mail eXchange, in Germany: Global Message eXchange).",
         "free": true,
         "verification": {
@@ -5941,6 +5964,7 @@
     },
     {
         "name": "Guangzhou Duoyi Network",
+        "country": "CN",
         "description": "2925.com is a Chinese email service operated by Guangzhou Duoyi Network Co., Ltd., offering unlimited sub-addresses under one main account.",
         "free": null,
         "verification": null,
@@ -5958,6 +5982,7 @@
     },
     {
         "name": "Hey (email service)",
+        "country": "US",
         "description": "HEY is a premium email service launched by Basecamp in June 2020.",
         "free": false,
         "verification": null,
@@ -5975,6 +6000,7 @@
     },
     {
         "name": "Hushmail",
+        "country": "CA",
         "description": "Encrypted email service operated by Hush Communications Corporation",
         "free": false,
         "verification": null,
@@ -6009,6 +6035,7 @@
     },
     {
         "name": "I.ua",
+        "country": "UA",
         "description": "I.ua is a Ukrainian online service offering email, news, search, and various web-based tools and features.",
         "free": null,
         "verification": null,
@@ -6034,6 +6061,7 @@
     },
     {
         "name": "iCloud",
+        "country": "US",
         "description": "iCloud is a cloud service developed by Apple Inc.",
         "free": true,
         "verification": {
@@ -6088,6 +6116,7 @@
     },
     {
         "name": "Iliad SA",
+        "country": "FR",
         "description": "Iliad S.A. is a French telecommunications company.",
         "free": null,
         "verification": null,
@@ -6122,6 +6151,7 @@
     },
     {
         "name": "Inbox.com",
+        "country": "NO",
         "description": "Premium email service operated by Inbox.com AS",
         "free": false,
         "verification": null,
@@ -6139,6 +6169,7 @@
     },
     {
         "name": "Inbox.lv",
+        "country": "LV",
         "description": "Inbox.lv is a versatile Latvian email service provider offering secure and user-friendly email solutions.",
         "free": true,
         "verification": null,
@@ -6178,6 +6209,7 @@
     },
     {
         "name": "India.com",
+        "country": "IN",
         "description": "Free email service operated by Zee Entertainment Enterprises Limited",
         "free": true,
         "verification": null,
@@ -6195,6 +6227,7 @@
     },
     {
         "name": "Infomaniak",
+        "country": "CH",
         "description": "Infomaniak Network is Switzerland's largest web-hosting company, offering free email with 20GB storage and unlimited storage with custom domain.",
         "free": true,
         "verification": null,
@@ -6212,6 +6245,7 @@
     },
     {
         "name": "Interia",
+        "country": "PL",
         "description": "Interia, formerly Interia.pl, is a large Polish web portal and online news platform launched in 2000 in Krak\u00f3w, Poland. It is the 4th largest online news source in the country.",
         "free": null,
         "verification": null,
@@ -6265,6 +6299,7 @@
     },
     {
         "name": "Internet Group",
+        "country": "BR",
         "description": "Internet Group do Brasil (iG) is a Brazilian Internet service provider that owns and operates web portals and provides a variety of services, including news, shopping and stock information.",
         "free": null,
         "verification": null,
@@ -6282,6 +6317,7 @@
     },
     {
         "name": "Juno Online Services",
+        "country": "US",
         "description": "Juno Online Services is an Internet service provider based in the United States offering free email and internet access.",
         "free": true,
         "verification": null,
@@ -6316,6 +6352,7 @@
     },
     {
         "name": "Kakao",
+        "country": "KR",
         "description": "Kakao is a comprehensive South Korean business group offering search engine services, news, messangers, and more.",
         "free": true,
         "verification": {
@@ -6390,6 +6427,7 @@
     },
     {
         "name": "Kolab Now",
+        "country": "CH",
         "description": "Kolab Now is a web-based email and groupware service, based completely on free and open-source software.",
         "free": false,
         "verification": {
@@ -6418,6 +6456,7 @@
     },
     {
         "name": "KPN",
+        "country": "NL",
         "description": "KPN (in full Koninklijke KPN N.V., also Royal KPN N.V.) is a Dutch telecommunications company.",
         "free": null,
         "verification": null,
@@ -6453,6 +6492,7 @@
     },
     {
         "name": "La Poste (France)",
+        "country": "FR",
         "description": "La Poste is a postal service company in France offering free email (laposte.net), requires French phone number since June 2024.",
         "free": true,
         "verification": null,
@@ -6470,6 +6510,7 @@
     },
     {
         "name": "Lavabit",
+        "country": "US",
         "description": "Encrypted email service operated by Lavabit LLC (not accepting new signups)",
         "free": false,
         "verification": null,
@@ -6487,6 +6528,7 @@
     },
     {
         "name": "Libero (web portal)",
+        "country": "IT",
         "description": "Libero (English: \"Free\") is an Italian web portal owned by Italiaonline and founded by Infostrada in 1994 as a website to assist users in browsing the Internet, which at the time still had a fee, and in configuring an e-mail.",
         "free": null,
         "verification": null,
@@ -6504,6 +6546,7 @@
     },
     {
         "name": "Lumen Technologies",
+        "country": "US",
         "description": "Lumen Technologies, Inc.",
         "free": null,
         "verification": null,
@@ -6521,6 +6564,7 @@
     },
     {
         "name": "Lycos",
+        "country": "US",
         "description": "Lycos, Inc., is a web search engine and web portal established in 1994, spun out of Carnegie Mellon University.",
         "free": false,
         "verification": {
@@ -6541,6 +6585,7 @@
     },
     {
         "name": "Mail.bg",
+        "country": "BG",
         "description": "Mail.bg is a Bulgarian email service that provides users with secure and reliable email communication.",
         "free": null,
         "verification": null,
@@ -6574,6 +6619,7 @@
     },
     {
         "name": "Mail.com",
+        "country": "US",
         "description": "mail.com is a web portal and web-based email service provider owned by the internet company 1&1 Mail & Media Inc., headquartered in Philadelphia, Pennsylvania, United States.",
         "free": true,
         "verification": {
@@ -9029,6 +9075,7 @@
     },
     {
         "name": "mail.de",
+        "country": "DE",
         "description": "Mail.de offers secure and reliable email services with advanced privacy protection features.",
         "free": false,
         "verification": null,
@@ -9050,6 +9097,7 @@
     },
     {
         "name": "Mail2World",
+        "country": "US",
         "description": "Mail2World provides secure, cloud-based email and messaging with webmail, mobile apps, and collaboration tools for individuals, businesses, and service providers worldwide.",
         "free": true,
         "verification": null,
@@ -18044,6 +18092,7 @@
     },
     {
         "name": "Mailbox.org",
+        "country": "DE",
         "description": "mailbox.org is an encrypted email service provider based in Germany.",
         "free": false,
         "verification": {
@@ -18076,6 +18125,7 @@
     },
     {
         "name": "Mailfence",
+        "country": "BE",
         "description": "Mailfence is a secure and encrypted email service that offers OpenPGP based end-to-end encryption and digital signatures.",
         "free": true,
         "verification": {
@@ -18100,6 +18150,7 @@
     },
     {
         "name": "Mailo",
+        "country": "FR",
         "description": "Mailo is a secure and privacy-focused email service based in France, offering a free plan with 1GB email and 500MB documents.",
         "free": true,
         "verification": null,
@@ -18171,6 +18222,7 @@
     },
     {
         "name": "Mail\u2011Online",
+        "country": "DK",
         "description": "Mail-Online.dk is a Danish ad-free webmail service offering secure email hosting with large storage, spam filtering, and calendar/contact tools under Danish privacy laws.",
         "free": null,
         "verification": null,
@@ -18246,6 +18298,7 @@
     },
     {
         "name": "Meta.ua",
+        "country": "UA",
         "description": "Meta.ua is a comprehensive Ukrainian web portal offering search, email, news, and various online services.",
         "free": null,
         "verification": null,
@@ -18267,6 +18320,7 @@
     },
     {
         "name": "Nate",
+        "country": "KR",
         "description": "Nate is a South Korean web portal and online service provider offering email, news, and various internet services.",
         "free": true,
         "verification": {
@@ -18287,6 +18341,7 @@
     },
     {
         "name": "Naver",
+        "country": "KR",
         "description": "Naver is a popular South Korean online platform offering search engine services, news, and more.",
         "free": true,
         "verification": {
@@ -18327,6 +18382,7 @@
     },
     {
         "name": "NetEase",
+        "country": "CN",
         "description": "NetEase is a leading Chinese technology company offering free email services (163.com, 126.com, yeah.net) with 940M+ members.",
         "free": true,
         "verification": null,
@@ -18390,6 +18446,7 @@
     },
     {
         "name": "Onet.pl",
+        "country": "PL",
         "description": "Onet.pl is the largest Polish-language web portal offering free email service with 3M+ users.",
         "free": true,
         "verification": null,
@@ -18506,6 +18563,7 @@
     },
     {
         "name": "OnionMail",
+        "country": "US",
         "description": "OnionMail is a free anonymous and encrypted email service operating through the Tor network, accounts blocked after 3 months inactivity.",
         "free": true,
         "verification": null,
@@ -18550,6 +18608,7 @@
     },
     {
         "name": "OnMail",
+        "country": "US",
         "description": "OnMail was an email service that emphasized privacy, allowing users to control who can send them emails. Service discontinued July 31, 2025.",
         "free": false,
         "verification": null,
@@ -18567,6 +18626,7 @@
     },
     {
         "name": "Optimum (cable brand)",
+        "country": "US",
         "description": "Optimum is an American telecommunications brand owned and operated by Altice USA. It is the fourth largest cable provider in the United States and a Fortune 500 company.",
         "free": null,
         "verification": null,
@@ -18584,6 +18644,7 @@
     },
     {
         "name": "Optus",
+        "country": "AU",
         "description": "Singtel Optus Pty Limited (commonly referred to as Optus) is an Australian telecommunications company headquartered in Macquarie Park, a suburb in the Northern Sydney region of Sydney, New South Wales, Australia.",
         "free": null,
         "verification": null,
@@ -18605,6 +18666,7 @@
     },
     {
         "name": "Orange S.A.",
+        "country": "FR",
         "description": "Orange S.A., formerly France T\u00e9l\u00e9com S.A., offers free email (orange.fr, wanadoo.fr) with 10GB storage.",
         "free": true,
         "verification": null,
@@ -18639,6 +18701,7 @@
     },
     {
         "name": "Outlook.com",
+        "country": "US",
         "description": "Outlook.com, formerly Hotmail, is a free personal email service offered by Microsoft.",
         "free": true,
         "verification": {
@@ -19590,6 +19653,7 @@
     },
     {
         "name": "Posteo",
+        "country": "DE",
         "description": "Posteo is an email service provider based in Berlin, Germany, offering paid email accounts for individuals and businesses.",
         "free": false,
         "verification": {
@@ -19618,6 +19682,7 @@
     },
     {
         "name": "Proton Mail",
+        "country": "CH",
         "description": "Proton Mail (previously written as ProtonMail) is a Swiss end-to-end encrypted email service founded in 2013 headquartered in Plan-les-Ouates, Switzerland.",
         "free": true,
         "verification": {
@@ -19889,6 +19954,7 @@
     },
     {
         "name": "Proximus Group",
+        "country": "BE",
         "description": "The Proximus Group is a provider of digital services and communication in Belgium and the international markets.",
         "free": null,
         "verification": null,
@@ -19906,6 +19972,7 @@
     },
     {
         "name": "Rambler (portal)",
+        "country": "RU",
         "description": "Rambler (Russian: \u0420\u0430\u043c\u0431\u043b\u0435\u0440) is a Russian search engine and one of the biggest Russian web portals, owned by the Rambler Media Group.",
         "free": null,
         "verification": null,
@@ -19923,6 +19990,7 @@
     },
     {
         "name": "Rediff.com",
+        "country": "IN",
         "description": "Rediff.com, stylized as rediff.com, is an Indian news, information, entertainment and shopping web portal.",
         "free": true,
         "verification": {
@@ -19952,6 +20020,7 @@
     },
     {
         "name": "SAPO",
+        "country": "PT",
         "description": "Sapo is a Portuguese portal and provider of products and services for the Internet. Founded in 1995 as a search engine, it is the largest internet portal in Portugal.",
         "free": true,
         "verification": null,
@@ -19969,6 +20038,7 @@
     },
     {
         "name": "SaskTel",
+        "country": "CA",
         "description": "SaskTel is a leading telecommunications provider in Saskatchewan, offering internet, phone, and entertainment services.",
         "free": null,
         "verification": null,
@@ -19994,6 +20064,7 @@
     },
     {
         "name": "Seznam",
+        "country": "CZ",
         "description": "Seznam is a Czech internet search engine and web portal offering free email with unlimited storage.",
         "free": true,
         "verification": null,
@@ -20041,6 +20112,7 @@
     },
     {
         "name": "SFR",
+        "country": "FR",
         "description": "SFR is a French telecommunications company offering free email with 10GB storage for subscribers.",
         "free": true,
         "verification": null,
@@ -20076,6 +20148,7 @@
     },
     {
         "name": "Shaw Communications",
+        "country": "CA",
         "description": "Shaw Communications Inc.",
         "free": null,
         "verification": null,
@@ -20093,6 +20166,7 @@
     },
     {
         "name": "Sina",
+        "country": "CN",
         "description": "Sina is a leading Chinese online media company offering free email services with 5GB-unlimited storage.",
         "free": true,
         "verification": null,
@@ -20135,6 +20209,7 @@
     },
     {
         "name": "SoftBank",
+        "country": "JP",
         "description": "SoftBank is a Japanese telecom operator and global technology investor that delivers mobile and broadband services while backing innovative companies worldwide.",
         "free": null,
         "verification": null,
@@ -20152,6 +20227,7 @@
     },
     {
         "name": "Sohu",
+        "country": "CN",
         "description": "Sohu is a Chinese web portal offering free and VIP email services, along with news, video streaming, and entertainment.",
         "free": true,
         "verification": null,
@@ -20177,6 +20253,7 @@
     },
     {
         "name": "Spark New Zealand",
+        "country": "NZ",
         "description": "Spark New Zealand is a leading telecommunications and digital services provider offering mobile, internet, and entertainment solutions.",
         "free": null,
         "verification": null,
@@ -20194,6 +20271,7 @@
     },
     {
         "name": "Spectrum",
+        "country": "US",
         "description": "Spectrum provides high-speed internet, cable TV, and home phone service with wide coverage and flexible plans.",
         "free": null,
         "verification": null,
@@ -20269,6 +20347,7 @@
     },
     {
         "name": "Spike",
+        "country": "IL",
         "description": "Spike turns email into a chat-like workspace, combining inbox, messaging, collaborative notes, tasks, and video meetings to streamline team communication.",
         "free": true,
         "verification": null,
@@ -20290,6 +20369,7 @@
     },
     {
         "name": "Sunrise Communications",
+        "country": "CH",
         "description": "Sunrise Communications provides comprehensive telecommunication services, including mobile, internet, and digital TV solutions.",
         "free": null,
         "verification": null,
@@ -20324,6 +20404,7 @@
     },
     {
         "name": "Swisscom",
+        "country": "CH",
         "description": "Swisscom AG is a major telecommunications provider in Switzerland.",
         "free": null,
         "verification": null,
@@ -20345,6 +20426,7 @@
     },
     {
         "name": "T-Online",
+        "country": "DE",
         "description": "t-online.de is a German news portal offering free email with 1GB storage and spam/virus protection.",
         "free": true,
         "verification": null,
@@ -20374,6 +20456,7 @@
     },
     {
         "name": "TalkTalk",
+        "country": "GB",
         "description": "TalkTalk is a UK telecommunications company. Email free for current customers, former customers pay £5/month or £50/year since Oct 31, 2025.",
         "free": true,
         "verification": null,
@@ -20403,6 +20486,7 @@
     },
     {
         "name": "Telecom Italia Mobile",
+        "country": "IT",
         "description": "Telecom Italia Mobile S.p.A., commonly known as TIM, is an Italian telecommunications company owned by Telecom Italia S.p.A. Founded as a mobile telephony company in 1995, since 2015 it provides mobile, fixed telephony, and Internet services.4G is available in 6,849 cities (96.3% of the country).",
         "free": null,
         "verification": null,
@@ -20420,6 +20504,7 @@
     },
     {
         "name": "Telenet",
+        "country": "US",
         "description": "Telenet was an American commercial packet-switched network which went into service in 1975.",
         "free": null,
         "verification": null,
@@ -20441,6 +20526,7 @@
     },
     {
         "name": "Telenor",
+        "country": "NO",
         "description": "Telenor is a leading global telecommunications company offering mobile, broadband, and digital services to consumers and businesses.",
         "free": null,
         "verification": null,
@@ -20470,6 +20556,7 @@
     },
     {
         "name": "Teleunit S.p.A.",
+        "country": "IT",
         "description": null,
         "free": null,
         "verification": null,
@@ -20487,6 +20574,7 @@
     },
     {
         "name": "Telia",
+        "country": "SE",
         "description": "Telia Company AB is a Swedish multinational telecommunications company and mobile network operator present in Sweden, Finland, Norway, Estonia, Latvia and Lithuania.",
         "free": null,
         "verification": null,
@@ -20504,6 +20592,7 @@
     },
     {
         "name": "Telmex",
+        "country": "MX",
         "description": "Telmex is a Mexican telecommunications provider offering fixed-line phone, high-speed internet, and data services for homes and businesses.",
         "free": true,
         "verification": null,
@@ -20784,6 +20873,7 @@
     },
     {
         "name": "Telstra",
+        "country": "AU",
         "description": "Telstra Group Limited is an Australian telecommunications company that builds and operates telecommunications networks and markets related products and services.",
         "free": null,
         "verification": null,
@@ -20810,6 +20900,7 @@
     },
     {
         "name": "TELUS",
+        "country": "CA",
         "description": "TELUS is a Canadian telecommunications company providing wireless, internet, TV, and digital health services.",
         "free": null,
         "verification": null,
@@ -20843,6 +20934,7 @@
     },
     {
         "name": "Tencent",
+        "country": "CN",
         "description": "Tencent Holdings Ltd.",
         "free": true,
         "verification": {
@@ -20888,6 +20980,7 @@
     },
     {
         "name": "Terra (company)",
+        "country": "ES",
         "description": "Terra is a Spanish Internet multinational company owned by Telef\u00f3nica, with headquarters in Spain and offices in Brazil, Chile, Colombia, Mexico, the United States and Peru.",
         "free": null,
         "verification": null,
@@ -20905,6 +20998,7 @@
     },
     {
         "name": "Tessellis",
+        "country": "IT",
         "description": "Tessellis S.p.A. (formerly Tiscali S.p.A.) is an Italian telecommunications company founded in 1998 and based in Cagliari, Sardinia, that provides Internet and telecommunications services in Italy, and, previously had operations in other European nations through its acquisition of many smaller European Internet Service Providers (ISPs) in the late 1990s.",
         "free": null,
         "verification": null,
@@ -20938,6 +21032,7 @@
     },
     {
         "name": "Tutanota",
+        "country": "DE",
         "description": "Tutanota is an end-to-end encrypted email app and a freemium secure email service.",
         "free": true,
         "verification": {
@@ -21003,6 +21098,7 @@
     },
     {
         "name": "UKR",
+        "country": "UA",
         "description": "Ukr.net is one of the most popular news internet services in Ukraine.",
         "free": true,
         "verification": null,
@@ -21020,6 +21116,7 @@
     },
     {
         "name": "United Internet",
+        "country": "DE",
         "description": "United Internet AG is a global Internet services company headquartered in Montabaur, Rhineland-Palatinate, Germany.",
         "free": null,
         "verification": null,
@@ -21054,6 +21151,7 @@
     },
     {
         "name": "Universo Online",
+        "country": "BR",
         "description": "Universo Online (Portuguese for \"Online Universe\") (known by the acronym UOL) is a Brazilian web content, products and services company.",
         "free": null,
         "verification": null,
@@ -21071,6 +21169,7 @@
     },
     {
         "name": "Videotron",
+        "country": "CA",
         "description": "Videotron is a Canadian telecommunications provider offering mobile, internet, television, and home phone services, primarily in Quebec.",
         "free": null,
         "verification": null,
@@ -21088,6 +21187,7 @@
     },
     {
         "name": "Virgilio.it",
+        "country": "IT",
         "description": "Virgilio was the first web portal in Italy.",
         "free": null,
         "verification": null,
@@ -21105,6 +21205,7 @@
     },
     {
         "name": "Virgin Media",
+        "country": "GB",
         "description": "Virgin Media is a British telecommunications company, founded in 2007, which provides telephone, television and internet services in the United Kingdom.",
         "free": null,
         "verification": null,
@@ -21139,6 +21240,7 @@
     },
     {
         "name": "VK (company)",
+        "country": "RU",
         "description": "VK, known as Mail.ru Group until 12 October 2021, is a Russian technology company.",
         "free": null,
         "verification": null,
@@ -21219,6 +21321,7 @@
     },
     {
         "name": "Vodafone",
+        "country": "GB",
         "description": "Vodafone Group plc () is a British multinational telecommunications company.",
         "free": null,
         "verification": null,
@@ -21240,6 +21343,7 @@
     },
     {
         "name": "Volny.cz",
+        "country": "CZ",
         "description": "Volny.cz is an online Czech portal offering email, news, weather, and various digital services.",
         "free": null,
         "verification": null,
@@ -21269,6 +21373,7 @@
     },
     {
         "name": "Walla!",
+        "country": "IL",
         "description": "Walla! is an Israeli web portal offering news, entertainment, and digital content across various categories.",
         "free": null,
         "verification": null,
@@ -21303,6 +21408,7 @@
     },
     {
         "name": "Windstream",
+        "country": "US",
         "description": "Windstream provides advanced network communications and technology solutions for consumers, businesses, enterprise organizations, and wholesale customers across the U.S.",
         "free": null,
         "verification": null,
@@ -21320,6 +21426,7 @@
     },
     {
         "name": "Wirtualna Polska",
+        "country": "PL",
         "description": "Wirtualna Polska is a leading Polish online media and e-commerce platform offering news, entertainment, and various digital services.",
         "free": true,
         "verification": null,
@@ -21377,6 +21484,7 @@
     },
     {
         "name": "Xfinity",
+        "country": "US",
         "description": "Xfinity is Comcast's service brand. Email service transitioned to Yahoo Mail starting June 2025, comcast.net addresses remain active on Yahoo infrastructure.",
         "free": true,
         "verification": null,
@@ -21422,6 +21530,7 @@
     },
     {
         "name": "Yahoo! Mail",
+        "country": "US",
         "description": "Yahoo! Mail. Storage reduced from 1TB to 20GB on August 27, 2025.",
         "free": true,
         "verification": {
@@ -21985,6 +22094,7 @@
     },
     {
         "name": "Yandex Mail",
+        "country": "RU",
         "description": "Yandex Mail is a Russian free email service developed by Yandex.",
         "free": true,
         "verification": {
@@ -22041,6 +22151,7 @@
     },
     {
         "name": "Ziggo",
+        "country": "NL",
         "description": "Ziggo Holding B.V. is the largest cable operator in the Netherlands, providing digital cable television, Internet, and telephone service to both residential and commercial customers.",
         "free": null,
         "verification": null,
@@ -22088,6 +22199,7 @@
     },
     {
         "name": "Zoho Corporation",
+        "country": "IN",
         "description": "Zoho Corporation, is an Indian multinational technology company that makes computer software and web-based business tools. Offers free tier for Mail with 5GB storage for up to 5 users.",
         "free": true,
         "verification": null,

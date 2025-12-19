@@ -6282,8 +6282,8 @@
     },
     {
         "name": "Juno Online Services",
-        "description": "Juno Online Services, also called simply Juno, is an Internet service provider based in the United States.",
-        "free": null,
+        "description": "Juno Online Services is an Internet service provider based in the United States offering free email and internet access.",
+        "free": true,
         "verification": null,
         "domains": [
             {

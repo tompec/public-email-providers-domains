@@ -21377,8 +21377,8 @@
     },
     {
         "name": "Xfinity",
-        "description": "Comcast Cable Communications, LLC, doing business as Xfinity, is an American telecommunications business segment and division of Comcast Corporation used to market consumer cable television, internet, telephone, and wireless services provided by the company.",
-        "free": null,
+        "description": "Xfinity is Comcast's service brand. Email service transitioned to Yahoo Mail starting June 2025, comcast.net addresses remain active on Yahoo infrastructure.",
+        "free": true,
         "verification": null,
         "domains": [
             {

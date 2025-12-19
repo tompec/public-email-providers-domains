@@ -19994,8 +19994,8 @@
     },
     {
         "name": "Seznam",
-        "description": "Seznam is a Czech internet search engine and web portal offering various online services like email, news, and maps.",
-        "free": null,
+        "description": "Seznam is a Czech internet search engine and web portal offering free email with unlimited storage.",
+        "free": true,
         "verification": null,
         "domains": [
             {

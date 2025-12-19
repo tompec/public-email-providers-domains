@@ -6453,8 +6453,8 @@
     },
     {
         "name": "La Poste (France)",
-        "description": "La Poste is a postal service company in France, operating in Metropolitan France, the five French overseas departments and regions and the overseas collectivity of Saint Pierre and Miquelon.",
-        "free": null,
+        "description": "La Poste is a postal service company in France offering free email (laposte.net), requires French phone number since June 2024.",
+        "free": true,
         "verification": null,
         "domains": [
             {

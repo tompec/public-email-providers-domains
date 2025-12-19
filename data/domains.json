@@ -6195,8 +6195,8 @@
     },
     {
         "name": "Infomaniak",
-        "description": "Infomaniak Network is Switzerland's largest web-hosting company, also offering live-streaming and video on demand services.",
-        "free": null,
+        "description": "Infomaniak Network is Switzerland's largest web-hosting company, offering free email with 20GB storage and unlimited storage with custom domain.",
+        "free": true,
         "verification": null,
         "domains": [
             {

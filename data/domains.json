@@ -21422,7 +21422,7 @@
     },
     {
         "name": "Yahoo! Mail",
-        "description": "Yahoo!",
+        "description": "Yahoo! Mail. Storage reduced from 1TB to 20GB on August 27, 2025.",
         "free": true,
         "verification": {
             "sms": true,

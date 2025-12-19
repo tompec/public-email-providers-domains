@@ -20093,8 +20093,8 @@
     },
     {
         "name": "Sina",
-        "description": "Sina is a leading Chinese online media company that provides news, entertainment, and social networking services, including the microblogging platform Weibo.",
-        "free": null,
+        "description": "Sina is a leading Chinese online media company offering free email services with 5GB-unlimited storage.",
+        "free": true,
         "verification": null,
         "domains": [
             {

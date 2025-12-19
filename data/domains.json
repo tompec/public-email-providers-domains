@@ -18390,8 +18390,8 @@
     },
     {
         "name": "Onet.pl",
-        "description": "Onet.pl is the largest Polish-language web portal and online news platform.",
-        "free": null,
+        "description": "Onet.pl is the largest Polish-language web portal offering free email service with 3M+ users.",
+        "free": true,
         "verification": null,
         "domains": [
             {

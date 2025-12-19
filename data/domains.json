@@ -18605,8 +18605,8 @@
     },
     {
         "name": "Orange S.A.",
-        "description": "Orange S.A. (French pronunciation: [\u0254\u0281\u0251\u0303\u0292 \u025bs \u0251]), formerly France T\u00e9l\u00e9com S.A. (stylized as france telecom) is a French multinational telecommunications corporation.",
-        "free": null,
+        "description": "Orange S.A., formerly France T\u00e9l\u00e9com S.A., offers free email (orange.fr, wanadoo.fr) with 10GB storage.",
+        "free": true,
         "verification": null,
         "domains": [
             {

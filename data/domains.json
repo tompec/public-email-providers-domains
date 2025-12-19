@@ -18506,8 +18506,8 @@
     },
     {
         "name": "OnionMail",
-        "description": "OnionMail is an anonymous and encrypted email service operating through the Tor network.",
-        "free": null,
+        "description": "OnionMail is a free anonymous and encrypted email service operating through the Tor network, accounts blocked after 3 months inactivity.",
+        "free": true,
         "verification": null,
         "domains": [
             {

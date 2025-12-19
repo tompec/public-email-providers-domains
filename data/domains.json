@@ -20041,8 +20041,8 @@
     },
     {
         "name": "SFR",
-        "description": "SFR (French: [\u025bs\u025bf\u025b\u0281]; in full: Soci\u00e9t\u00e9 fran\u00e7aise du radiot\u00e9l\u00e9phone [s\u0254sjete f\u0281\u0251\u0303s\u025b\u02d0z dy \u0281adjotelef\u0254n]) is a French telecommunications company.",
-        "free": null,
+        "description": "SFR is a French telecommunications company offering free email with 10GB storage for subscribers.",
+        "free": true,
         "verification": null,
         "domains": [
             {

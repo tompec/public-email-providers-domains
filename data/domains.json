@@ -5974,6 +5974,40 @@
         ]
     },
     {
+        "name": "Hushmail",
+        "description": "Encrypted email service operated by Hush Communications Corporation",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "hush.com",
+                "mxRecords": [
+                    {
+                        "priority": "100",
+                        "hostname": "plsmtp1.hushmail.com"
+                    },
+                    {
+                        "priority": "100",
+                        "hostname": "plsmtp2.hushmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "hushmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "100",
+                        "hostname": "plsmtp1.hushmail.com"
+                    },
+                    {
+                        "priority": "100",
+                        "hostname": "plsmtp2.hushmail.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "I.ua",
         "description": "I.ua is a Ukrainian online service offering email, news, search, and various web-based tools and features.",
         "free": null,
@@ -6087,6 +6121,23 @@
         ]
     },
     {
+        "name": "Inbox.com",
+        "description": "Premium email service operated by Inbox.com AS",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "inbox.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Inbox.lv",
         "description": "Inbox.lv is a versatile Latvian email service provider offering secure and user-friendly email solutions.",
         "free": true,
@@ -6120,6 +6171,23 @@
                     {
                         "priority": "1",
                         "hostname": "mx2.inbox.lv"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "India.com",
+        "description": "Free email service operated by Zee Entertainment Enterprises Limited",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "india.com",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "india-com.mail.protection.outlook.com"
                     }
                 ]
             }
@@ -6395,6 +6463,23 @@
                     {
                         "priority": "10",
                         "hostname": "smtpz4.laposte.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lavabit",
+        "description": "Encrypted email service operated by Lavabit LLC (not accepting new signups)",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "lavabit.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "lavabit.com"
                     }
                 ]
             }
@@ -20014,6 +20099,23 @@
         "domains": [
             {
                 "domain": "sina.cn",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "freemx1.sinamail.sina.com.cn"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "freemx2.sinamail.sina.com.cn"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "freemx3.sinamail.sina.com.cn"
+                    }
+                ]
+            },
+            {
+                "domain": "sina.com",
                 "mxRecords": [
                     {
                         "priority": "10",

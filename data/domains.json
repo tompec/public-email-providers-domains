@@ -18100,8 +18100,8 @@
     },
     {
         "name": "Mailo",
-        "description": "Mailo is a secure and privacy-focused email service designed for personal and professional communication.",
-        "free": null,
+        "description": "Mailo is a secure and privacy-focused email service based in France, offering a free plan with 1GB email and 500MB documents.",
+        "free": true,
         "verification": null,
         "domains": [
             {

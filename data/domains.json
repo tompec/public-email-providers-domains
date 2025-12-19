@@ -20152,8 +20152,8 @@
     },
     {
         "name": "Sohu",
-        "description": "Sohu is a Chinese web portal providing news, video streaming, entertainment, sports coverage, and online gaming services.",
-        "free": null,
+        "description": "Sohu is a Chinese web portal offering free and VIP email services, along with news, video streaming, and entertainment.",
+        "free": true,
         "verification": null,
         "domains": [
             {

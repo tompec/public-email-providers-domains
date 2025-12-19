@@ -20374,8 +20374,8 @@
     },
     {
         "name": "TalkTalk",
-        "description": "TalkTalk is a UK telecommunications company providing broadband, phone, and TV services for homes and businesses.",
-        "free": null,
+        "description": "TalkTalk is a UK telecommunications company. Email free for current customers, former customers pay £5/month or £50/year since Oct 31, 2025.",
+        "free": true,
         "verification": null,
         "domains": [
             {

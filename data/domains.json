@@ -525,8 +525,8 @@
     },
     {
         "name": "Cox Communications",
-        "description": "Cox Communications, Inc.",
-        "free": null,
+        "description": "Cox Communications email service transitioned to Yahoo Mail. Cox.net addresses remain active on Yahoo infrastructure, free for Cox customers.",
+        "free": true,
         "verification": null,
         "domains": [
             {

@@ -42,7 +42,7 @@ Each item in the list is a JSON object with the following structure:
 | `name` | `string` | The name of the email provider. |
 | `country` | `string` | The ISO 3166-1 alpha-2 country code of the provider's legal entity (e.g., `US`, `DE`, `GB`). For subsidiaries, uses the ultimate parent company's country. |
 | `description` | `string` | A short description of the email provider. |
-| `free` | `boolean` | Whether or not the email provider is free to use. |
+| `free` | `boolean` | Whether the email service is provided at no additional cost. `true` = free (e.g., Gmail, or ISP email bundled with internet service). `false` = users pay specifically for the email service. `null` = unknown. |
 | `verification` | `object` | An object containing information about the verification methods required by the email provider. |
 | `verification.sms` | `boolean` | Whether or not the email provider requires SMS verification. |
 | `verification.secondaryEmail` | `boolean` | Whether or not the email provider requires secondary email verification. |

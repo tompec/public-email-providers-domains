@@ -2,7 +2,7 @@
     {
         "name": "A1 Telekom Austria",
         "country": "AT",
-        "description": "A1 Telekom Austria is Austria\u2019s leading integrated telecom provider, delivering mobile, fixed-line, broadband internet, TV, and ICT services to consumers and businesses.",
+        "description": "A1 Telekom Austria is Austria’s leading integrated telecom provider, delivering mobile, fixed-line, broadband internet, TV, and ICT services to consumers and businesses.",
         "free": null,
         "verification": null,
         "domains": [
@@ -305,8 +305,8 @@
     {
         "name": "au",
         "country": "JP",
-        "description": "au is KDDI\u2019s Japanese telecom brand offering mobile, broadband, and digital services.",
-        "free": null,
+        "description": "au is KDDI’s Japanese telecom brand offering mobile, broadband, and digital services.",
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -384,7 +384,7 @@
         "name": "Bell Internet",
         "country": "CA",
         "description": "Bell Internet, originally and frequently still called Sympatico, is the residential Internet service provider (ISP) division of BCE Inc.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -438,7 +438,7 @@
         "name": "BT",
         "country": "GB",
         "description": "BT is a leading UK telecommunications provider offering broadband, mobile, landline, TV, and enterprise network and IT services.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -524,8 +524,8 @@
     {
         "name": "China Mobile",
         "country": "CN",
-        "description": "China Mobile is China\u2019s state-owned telecom operator providing mobile voice and data, 5G, broadband, and IoT services.",
-        "free": null,
+        "description": "China Mobile is China’s state-owned telecom operator providing mobile voice and data, 5G, broadband, and IoT services.",
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -551,7 +551,7 @@
         "name": "China Telecom",
         "country": "CN",
         "description": "China Telecom is a state-owned Chinese telecom giant providing broadband, mobile, cloud, and enterprise network services across China and globally.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -6145,7 +6145,7 @@
         "name": "Iliad SA",
         "country": "FR",
         "description": "Iliad S.A. is a French telecommunications company.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -6273,7 +6273,7 @@
     {
         "name": "Interia",
         "country": "PL",
-        "description": "Interia, formerly Interia.pl, is a large Polish web portal and online news platform launched in 2000 in Krak\u00f3w, Poland. It is the 4th largest online news source in the country.",
+        "description": "Interia, formerly Interia.pl, is a large Polish web portal and online news platform launched in 2000 in Kraków, Poland. It is the 4th largest online news source in the country.",
         "free": null,
         "verification": null,
         "domains": [
@@ -6328,7 +6328,7 @@
         "name": "Internet Group",
         "country": "BR",
         "description": "Internet Group do Brasil (iG) is a Brazilian Internet service provider that owns and operates web portals and provides a variety of services, including news, shopping and stock information.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -6485,7 +6485,7 @@
         "name": "KPN",
         "country": "NL",
         "description": "KPN (in full Koninklijke KPN N.V., also Royal KPN N.V.) is a Dutch telecommunications company.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -18248,7 +18248,7 @@
         ]
     },
     {
-        "name": "Mail\u2011Online",
+        "name": "Mail‑Online",
         "country": "DK",
         "description": "Mail-Online.dk is a Danish ad-free webmail service offering secure email hosting with large storage, spam filtering, and calendar/contact tools under Danish privacy laws.",
         "free": null,
@@ -18676,7 +18676,7 @@
         "name": "Optimum (cable brand)",
         "country": "US",
         "description": "Optimum is an American telecommunications brand owned and operated by Altice USA. It is the fourth largest cable provider in the United States and a Fortune 500 company.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -18694,7 +18694,7 @@
         "name": "Optus",
         "country": "AU",
         "description": "Singtel Optus Pty Limited (commonly referred to as Optus) is an Australian telecommunications company headquartered in Macquarie Park, a suburb in the Northern Sydney region of Sydney, New South Wales, Australia.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -18715,7 +18715,7 @@
     {
         "name": "Orange S.A.",
         "country": "FR",
-        "description": "Orange S.A., formerly France T\u00e9l\u00e9com S.A., offers free email (orange.fr, wanadoo.fr) with 10GB storage.",
+        "description": "Orange S.A., formerly France Télécom S.A., offers free email (orange.fr, wanadoo.fr) with 10GB storage.",
         "free": true,
         "verification": null,
         "domains": [
@@ -20039,7 +20039,7 @@
     {
         "name": "Rambler (portal)",
         "country": "RU",
-        "description": "Rambler (Russian: \u0420\u0430\u043c\u0431\u043b\u0435\u0440) is a Russian search engine and one of the biggest Russian web portals, owned by the Rambler Media Group.",
+        "description": "Rambler (Russian: Рамблер) is a Russian search engine and one of the biggest Russian web portals, owned by the Rambler Media Group.",
         "free": null,
         "verification": null,
         "domains": [
@@ -20088,7 +20088,7 @@
         "name": "Rogers Communications",
         "country": "CA",
         "description": "Rogers Communications is a major Canadian telecommunications company providing internet, mobile, and TV services with Yahoo-hosted email for customers.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -20124,7 +20124,7 @@
         "name": "SaskTel",
         "country": "CA",
         "description": "SaskTel is a leading telecommunications provider in Saskatchewan, offering internet, phone, and entertainment services.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -20317,7 +20317,7 @@
         "name": "SoftBank",
         "country": "JP",
         "description": "SoftBank is a Japanese telecom operator and global technology investor that delivers mobile and broadband services while backing innovative companies worldwide.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -20361,7 +20361,7 @@
         "name": "Spark New Zealand",
         "country": "NZ",
         "description": "Spark New Zealand is a leading telecommunications and digital services provider offering mobile, internet, and entertainment solutions.",
-        "free": null,
+        "free": false,
         "verification": null,
         "domains": [
             {
@@ -20379,7 +20379,7 @@
         "name": "Spectrum",
         "country": "US",
         "description": "Spectrum provides high-speed internet, cable TV, and home phone service with wide coverage and flexible plans.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -20477,7 +20477,7 @@
         "name": "Sunrise Communications",
         "country": "CH",
         "description": "Sunrise Communications provides comprehensive telecommunication services, including mobile, internet, and digital TV solutions.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -20512,7 +20512,7 @@
         "name": "Swisscom",
         "country": "CH",
         "description": "Swisscom AG is a major telecommunications provider in Switzerland.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -20594,7 +20594,7 @@
         "name": "Telecom Italia Mobile",
         "country": "IT",
         "description": "Telecom Italia Mobile S.p.A., commonly known as TIM, is an Italian telecommunications company owned by Telecom Italia S.p.A. Founded as a mobile telephony company in 1995, since 2015 it provides mobile, fixed telephony, and Internet services.4G is available in 6,849 cities (96.3% of the country).",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -20634,7 +20634,7 @@
         "name": "Telenor",
         "country": "NO",
         "description": "Telenor is a leading global telecommunications company offering mobile, broadband, and digital services to consumers and businesses.",
-        "free": null,
+        "free": false,
         "verification": null,
         "domains": [
             {
@@ -20682,7 +20682,7 @@
         "name": "Telia",
         "country": "SE",
         "description": "Telia Company AB is a Swedish multinational telecommunications company and mobile network operator present in Sweden, Finland, Norway, Estonia, Latvia and Lithuania.",
-        "free": null,
+        "free": false,
         "verification": null,
         "domains": [
             {
@@ -20981,7 +20981,7 @@
         "name": "Telstra",
         "country": "AU",
         "description": "Telstra Group Limited is an Australian telecommunications company that builds and operates telecommunications networks and markets related products and services.",
-        "free": null,
+        "free": false,
         "verification": null,
         "domains": [
             {
@@ -21033,7 +21033,7 @@
         "name": "TELUS",
         "country": "CA",
         "description": "TELUS is a Canadian telecommunications company providing wireless, internet, TV, and digital health services.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -21112,7 +21112,7 @@
     {
         "name": "Terra (company)",
         "country": "ES",
-        "description": "Terra is a Spanish Internet multinational company owned by Telef\u00f3nica, with headquarters in Spain and offices in Brazil, Chile, Colombia, Mexico, the United States and Peru.",
+        "description": "Terra is a Spanish Internet multinational company owned by Telefónica, with headquarters in Spain and offices in Brazil, Chile, Colombia, Mexico, the United States and Peru.",
         "free": null,
         "verification": null,
         "domains": [
@@ -21131,7 +21131,7 @@
         "name": "Tessellis",
         "country": "IT",
         "description": "Tessellis S.p.A. (formerly Tiscali S.p.A.) is an Italian telecommunications company founded in 1998 and based in Cagliari, Sardinia, that provides Internet and telecommunications services in Italy, and, previously had operations in other European nations through its acquisition of many smaller European Internet Service Providers (ISPs) in the late 1990s.",
-        "free": null,
+        "free": false,
         "verification": null,
         "domains": [
             {
@@ -21249,7 +21249,7 @@
         "name": "United Internet",
         "country": "DE",
         "description": "United Internet AG is a global Internet services company headquartered in Montabaur, Rhineland-Palatinate, Germany.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -21302,7 +21302,7 @@
         "name": "Videotron",
         "country": "CA",
         "description": "Videotron is a Canadian telecommunications provider offering mobile, internet, television, and home phone services, primarily in Quebec.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -21338,7 +21338,7 @@
         "name": "Virgin Media",
         "country": "GB",
         "description": "Virgin Media is a British telecommunications company, founded in 2007, which provides telephone, television and internet services in the United Kingdom.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -21480,7 +21480,7 @@
         "name": "Vodafone",
         "country": "GB",
         "description": "Vodafone Group plc () is a British multinational telecommunications company.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {
@@ -22310,7 +22310,7 @@
         "name": "Ziggo",
         "country": "NL",
         "description": "Ziggo Holding B.V. is the largest cable operator in the Netherlands, providing digital cable television, Internet, and telephone service to both residential and commercial customers.",
-        "free": null,
+        "free": true,
         "verification": null,
         "domains": [
             {

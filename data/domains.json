@@ -399,6 +399,24 @@
         ]
     },
     {
+        "name": "black.com",
+        "country": "AT",
+        "description": "black.com is an encrypted email service operated by black.com GmbH, an Austrian company. It offers zero-access encryption with servers located in Switzerland.",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "black.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mail.black.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Brasil Online",
         "country": "BR",
         "description": "Brasil Online (BOL) is an Internet portal that provides email hosting and free email services UOL.\n\n\n== History ==\nIn April 1996, BOL was launched in Brazil by Grupo Abril, one of the largest Communication Holdings in Brazil.",
@@ -18328,6 +18346,27 @@
         ]
     },
     {
+        "name": "MWEB",
+        "country": "ZA",
+        "description": "MWEB is a South African ISP founded in 1997, now a subsidiary of Webafrica, providing internet and email services.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "mweb.co.za",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-se.mweb.co.za"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Nate",
         "country": "KR",
         "description": "Nate is a South Korean web portal and online service provider offering email, news, and various internet services.",
@@ -19309,6 +19348,15 @@
                     {
                         "priority": "10",
                         "hostname": "eur.olc.protection.outlook.com"
+                    }
+                ]
+            },
+            {
+                "domain": "livemail.tw",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com"
                     }
                 ]
             },
@@ -20951,6 +20999,31 @@
                     {
                         "priority": "0",
                         "hostname": "extmail.bpbb.bigpond.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Telkom SA",
+        "country": "ZA",
+        "description": "Telkom SA is a South African state-owned telecommunications company providing fixed-line, mobile, and internet services.",
+        "free": true,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "telkomsa.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "telkomsa-mx1.e-purifier.com"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "telkomsa-mx2.e-purifier.com"
                     }
                 ]
             }

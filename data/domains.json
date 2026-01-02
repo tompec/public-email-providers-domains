@@ -20037,6 +20037,24 @@
         ]
     },
     {
+        "name": "Purelymail",
+        "country": "US",
+        "description": "Purelymail is an affordable email hosting service offering IMAP, POP3, and webmail access with support for custom domains.",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "purelymail.com",
+                "mxRecords": [
+                    {
+                        "priority": "50",
+                        "hostname": "mailserver.purelymail.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Rambler (portal)",
         "country": "RU",
         "description": "Rambler (Russian: Рамблер) is a Russian search engine and one of the biggest Russian web portals, owned by the Rambler Media Group.",

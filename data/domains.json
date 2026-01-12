@@ -555,6 +555,23 @@
         "verification": null,
         "domains": [
             {
+                "domain": "189.cn",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mta-189.21cn.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2-189.21cn.com"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "mx3-189.21cn.com"
+                    }
+                ]
+            },
+            {
                 "domain": "21cn.com",
                 "mxRecords": [
                     {
@@ -18474,6 +18491,19 @@
                     {
                         "priority": "50",
                         "hostname": "163mx00.mxmail.netease.com"
+                    }
+                ]
+            },
+            {
+                "domain": "188.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "188mx01.mxmail.netease.com"
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "188mx00.mxmail.netease.com"
                     }
                 ]
             },

@@ -19674,6 +19674,15 @@
                 ]
             },
             {
+                "domain": "outlook.ph",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com"
+                    }
+                ]
+            },
+            {
                 "domain": "outlook.pt",
                 "mxRecords": [
                     {

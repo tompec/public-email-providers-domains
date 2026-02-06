@@ -84,6 +84,49 @@
         ]
     },
     {
+        "name": "Altibox Mail",
+        "country": "NO",
+        "description": "Altibox (Lyse Group) provides customer email for Norwegian broadband subscribers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "lyse.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.altibox.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.altibox.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.altibox.net"
+                    }
+                ]
+            },
+            {
+                "domain": "ntebb.no",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.altibox.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.altibox.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.altibox.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "AOL Mail",
         "country": "US",
         "description": "AOL Mail (stylized as Aol Mail.) is a free web-based email service provided by AOL, a division of Yahoo!",
@@ -617,6 +660,15 @@
         "domains": [
             {
                 "domain": "dnainternet.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dnamail.fi"
+                    }
+                ]
+            },
+            {
+                "domain": "welho.com",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -2512,6 +2564,19 @@
             },
             {
                 "domain": "saunalahti.fi",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
+                    }
+                ]
+            },
+            {
+                "domain": "wippies.fi",
                 "mxRecords": [
                     {
                         "priority": "1",
@@ -18732,6 +18797,24 @@
         ]
     },
     {
+        "name": "OCN Mail",
+        "country": "JP",
+        "description": "OCN (Open Computer Network) is Japan's largest ISP, owned by NTT Communications, providing email to its broadband subscribers.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "ocn.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mw2prrw31p.bizmw.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Onet.pl",
         "country": "PL",
         "description": "Onet.pl is the largest Polish-language web portal offering free email service with 3M+ users.",
@@ -18888,6 +18971,28 @@
                     {
                         "priority": "5",
                         "hostname": "mxmail.onionmail.org"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Online.de",
+        "country": "DE",
+        "description": "Online.de provides email addresses to 1&1/IONOS broadband subscribers in Germany.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "online.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx00.emig.kundenserver.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.emig.kundenserver.de"
                     }
                 ]
             }

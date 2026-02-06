@@ -609,6 +609,24 @@
         ]
     },
     {
+        "name": "DNA Mail",
+        "country": "FI",
+        "description": "DNA Mail is a free email service provided by DNA Oyj, a major Finnish telecommunications company offering mobile, broadband, and TV services.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "dnainternet.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dnamail.fi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "EarthLink",
         "country": "US",
         "description": "EarthLink is an American Internet service provider offering free email for customers and legacy account holders.",
@@ -2454,6 +2472,54 @@
                     {
                         "priority": "10",
                         "hostname": "mail.teamvielfalt.eu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Elisa Mail",
+        "country": "FI",
+        "description": "Elisa Mail is a free email service provided by Elisa Oyj, Finland's largest telecommunications company, to its broadband and mobile customers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "elisanet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
+                    }
+                ]
+            },
+            {
+                "domain": "kolumbus.fi",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
+                    }
+                ]
+            },
+            {
+                "domain": "saunalahti.fi",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
                     }
                 ]
             }
@@ -6007,6 +6073,24 @@
         ]
     },
     {
+        "name": "GodMail",
+        "country": "DK",
+        "description": "GodMail is a free Danish email service from GodStart, designed with a simple, user-friendly interface tailored for elderly users.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "godmail.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Guangzhou Duoyi Network",
         "country": "CN",
         "description": "2925.com is a Chinese email service operated by Guangzhou Duoyi Network Co., Ltd., offering unlimited sub-addresses under one main account.",
@@ -6037,6 +6121,24 @@
                     {
                         "priority": "10",
                         "hostname": "home-mx.app.hey.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hot.ee",
+        "country": "EE",
+        "description": "Hot.ee is a free Estonian webmail service, originally launched by Telia Eesti, now operated by Inbox.com AS.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "hot.ee",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
                     }
                 ]
             }
@@ -6159,6 +6261,32 @@
         ]
     },
     {
+        "name": "IKI",
+        "country": "FI",
+        "description": "IKI is a Finnish non-profit association (IKI ry) offering lifetime email forwarding addresses to members for a one-time fee, established in 1995.",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "iki.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.iki.fi"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mail2.iki.fi"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mail3.iki.fi"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Iliad SA",
         "country": "FR",
         "description": "Iliad S.A. is a French telecommunications company.",
@@ -6270,6 +6398,24 @@
         ]
     },
     {
+        "name": "Inet",
+        "country": "FI",
+        "description": "Inet.fi is a Finnish email service originally launched by Sonera in 1998, now operated by Inbox.com AS.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.cm.telia.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Infomaniak",
         "country": "CH",
         "description": "Infomaniak Network is Switzerland's largest web-hosting company, offering free email with 20GB storage and unlimited storage with custom domain.",
@@ -6354,6 +6500,33 @@
                     {
                         "priority": "1",
                         "hostname": "mx-ha.skymail.net.br"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jubii",
+        "country": "DK",
+        "description": "Jubii is a Danish web portal launched in 1995, offering free email services. It is now operated by Inbox.com AS.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "email.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "jubii.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
                     }
                 ]
             }
@@ -6601,6 +6774,24 @@
                     {
                         "priority": "100",
                         "hostname": "mx.centurylink.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Luukku",
+        "country": "FI",
+        "description": "Luukku is a free Finnish webmail service launched in 1999 by MTV Oy, one of Finland's earliest email providers, now operated by Inbox.com AS.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "luukku.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
                     }
                 ]
             }
@@ -9134,6 +9325,24 @@
                     {
                         "priority": "10",
                         "hostname": "mx02.mail.de"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mail.ee",
+        "country": "EE",
+        "description": "Mail.ee is a free Estonian email service providing webmail to Estonian users, operated by Inbox.lv.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "mail.ee",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.inbox.eu"
                     }
                 ]
             }
@@ -19775,6 +19984,10 @@
                     },
                     {
                         "priority": "10",
+                        "hostname": "mx02.posteo.de"
+                    },
+                    {
+                        "priority": "10",
                         "hostname": "mx03.posteo.de"
                     },
                     {
@@ -20426,7 +20639,7 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "mx.xtra.co.nz"
+                        "hostname": "mx.xm.smxcloud.com"
                     }
                 ]
             }
@@ -20754,6 +20967,31 @@
         ]
     },
     {
+        "name": "Telkom SA",
+        "country": "ZA",
+        "description": "Telkom SA is a South African state-owned telecommunications company providing fixed-line, mobile, and internet services.",
+        "free": true,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "telkomsa.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "telkomsa-mx1.e-purifier.com"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "telkomsa-mx2.e-purifier.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Telmex",
         "country": "MX",
         "description": "Telmex is a Mexican telecommunications provider offering fixed-line phone, high-speed internet, and data services for homes and businesses.",
@@ -21056,31 +21294,6 @@
                     {
                         "priority": "0",
                         "hostname": "extmail.bpbb.bigpond.com"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Telkom SA",
-        "country": "ZA",
-        "description": "Telkom SA is a South African state-owned telecommunications company providing fixed-line, mobile, and internet services.",
-        "free": true,
-        "verification": {
-            "sms": null,
-            "secondaryEmail": null
-        },
-        "domains": [
-            {
-                "domain": "telkomsa.net",
-                "mxRecords": [
-                    {
-                        "priority": "10",
-                        "hostname": "telkomsa-mx1.e-purifier.com"
-                    },
-                    {
-                        "priority": "10",
-                        "hostname": "telkomsa-mx2.e-purifier.com"
                     }
                 ]
             }
@@ -22358,6 +22571,69 @@
                     {
                         "priority": "10",
                         "hostname": "mx.yandex.ru"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "YouSee Mail",
+        "country": "DK",
+        "description": "YouSee Mail is a free email service provided by YouSee, Denmark's largest cable TV and broadband provider, part of the Nuuday group (formerly TDC).",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "mail.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "pc.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "privat.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "tele.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mailgrinder.tdc.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "webspeed.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "youmail.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
                     }
                 ]
             }

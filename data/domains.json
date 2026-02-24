@@ -424,6 +424,24 @@
         ]
     },
     {
+        "name": "Balticom",
+        "country": "LV",
+        "description": "Balticom is a Latvian telecommunications provider offering internet, TV, and email services, with email hosted by Inbox.lv.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "balticom.lv",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.inbox.lv"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Bell Internet",
         "country": "CA",
         "description": "Bell Internet, originally and frequently still called Sympatico, is the residential Internet service provider (ISP) division of BCE Inc.",
@@ -6421,6 +6439,15 @@
                 ]
             },
             {
+                "domain": "inbox.la",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.inbox.eu"
+                    }
+                ]
+            },
+            {
                 "domain": "inbox.lt",
                 "mxRecords": [
                     {
@@ -6439,6 +6466,15 @@
                     {
                         "priority": "1",
                         "hostname": "mx2.inbox.lv"
+                    }
+                ]
+            },
+            {
+                "domain": "inbox.vg",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.inbox.eu"
                     }
                 ]
             }
@@ -9408,6 +9444,24 @@
                     {
                         "priority": "10",
                         "hostname": "mx.inbox.eu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mail.lv",
+        "country": "LV",
+        "description": "Mail.lv is a free Latvian email service operated by Inbox.lv.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "mail.lv",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.inbox.lv"
                     }
                 ]
             }
@@ -21597,6 +21651,24 @@
                     {
                         "priority": "0",
                         "hostname": "mail.tutanota.de"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TVNet",
+        "country": "LV",
+        "description": "TVNet is a Latvian news and media portal offering email services hosted by Inbox.lv.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "tvnet.lv",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.inbox.lv"
                     }
                 ]
             }

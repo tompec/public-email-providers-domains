@@ -20721,6 +20721,33 @@
         ]
     },
     {
+        "name": "Site.pro",
+        "country": "LT",
+        "description": "Site.pro provides public email mailboxes, including free addresses at @siteprofree.email and paid/professional mailboxes at @sitepro.email, plus custom-domain email hosting.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "sitepro.email",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "webmail.site.pro"
+                    }
+                ]
+            },
+            {
+                "domain": "siteprofree.email",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "siteprofree.email"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Sky Italia",
         "country": "IT",
         "description": "Sky Italia is an Italian telecommunications company offering broadband, TV, and email services to consumers.",

@@ -2749,6 +2749,19 @@
                 ]
             },
             {
+                "domain": "bestmail.us",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "in1-smtp.messagingengine.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "in2-smtp.messagingengine.com"
+                    }
+                ]
+            },
+            {
                 "domain": "cluemail.com",
                 "mxRecords": [
                     {
@@ -2906,6 +2919,19 @@
             },
             {
                 "domain": "fastem.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "in1-smtp.messagingengine.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "in2-smtp.messagingengine.com"
+                    }
+                ]
+            },
+            {
+                "domain": "fastemail.us",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -3217,6 +3243,19 @@
                 ]
             },
             {
+                "domain": "fastmail.us",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "in1-smtp.messagingengine.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "in2-smtp.messagingengine.com"
+                    }
+                ]
+            },
+            {
                 "domain": "fastmailbox.net",
                 "mxRecords": [
                     {
@@ -3335,6 +3374,19 @@
             },
             {
                 "domain": "ftml.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "in1-smtp.messagingengine.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "in2-smtp.messagingengine.com"
+                    }
+                ]
+            },
+            {
+                "domain": "h-mail.us",
                 "mxRecords": [
                     {
                         "priority": "10",

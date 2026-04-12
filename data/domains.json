@@ -18764,6 +18764,24 @@
         ]
     },
     {
+        "name": "MySudo",
+        "country": "US",
+        "description": "MySudo is a privacy-focused app that provides secure email addresses, phone numbers, and browsing under compartmentalized digital identities called Sudos.",
+        "free": true,
+        "verification": false,
+        "domains": [
+            {
+                "domain": "sudomail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "inbound-smtp.us-east-1.amazonaws.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Nate",
         "country": "KR",
         "description": "Nate is a South Korean web portal and online service provider offering email, news, and various internet services.",

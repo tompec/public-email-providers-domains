@@ -2609,6 +2609,141 @@
         ]
     },
     {
+        "name": "Emailn",
+        "country": "DE",
+        "description": "Emailn is a free email service based in Bielefeld, Germany, operated under the brand Freemail.biz Media. Founded in 2008, it offers free email accounts with unlimited storage, IMAP access, and cloud storage. It also operates the sister services Firemail and Skymail, all sharing the same infrastructure.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "emailn.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.emailn.de"
+                    }
+                ]
+            },
+            {
+                "domain": "emailn.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.emailn.de"
+                    }
+                ]
+            },
+            {
+                "domain": "emailn.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.emailn.de"
+                    }
+                ]
+            },
+            {
+                "domain": "emailn.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.emailn.de"
+                    }
+                ]
+            },
+            {
+                "domain": "firemail.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.firemail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "firemail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.firemail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "firemail.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.firemail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "hemail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.skymail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "maills.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.skymail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "maills.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.skymail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "maills.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.skymail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "skymail.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.skymail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "skymail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.skymail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "skymail.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.skymail.de"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Fastmail",
         "country": "AU",
         "description": "Fastmail is an email hosting company based in Melbourne, Australia.",

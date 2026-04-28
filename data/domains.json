@@ -644,6 +644,24 @@
         ]
     },
     {
+        "name": "Citromail",
+        "country": "HU",
+        "description": "Citromail is a Hungarian webmail service operated by Inbox.com AS.",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "citromail.hu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Cox Communications",
         "country": "US",
         "description": "Cox Communications email service transitioned to Yahoo Mail. Cox.net addresses remain active on Yahoo infrastructure, free for Cox customers.",
@@ -22237,6 +22255,32 @@
                     {
                         "priority": "5",
                         "hostname": "mx2.hc49497.c3s2.iphmx.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Webafrica",
+        "country": "ZA",
+        "description": "Webafrica is a South African ISP providing fibre, fixed LTE, and VoIP services with bundled email for its broadband customers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "webafrica.org.za",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.spamexperts.com"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "fallbackmx.spamexperts.eu"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "lastmx.spamexperts.net"
                     }
                 ]
             }

@@ -66,6 +66,24 @@
         ]
     },
     {
+        "name": "Afrihost",
+        "country": "ZA",
+        "description": "Afrihost is a South African ISP and web hosting provider offering free bundled webmail with its internet, hosting, and domain packages.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "afrihost.co.za",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "spe.ucebox.co.za"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Agora S.A.",
         "country": "PL",
         "description": "Agora S.A. provides diverse media and communication services, including print, online, and radio, to engage and inform the public in Poland.",
@@ -6812,6 +6830,33 @@
         ]
     },
     {
+        "name": "Internet Solutions",
+        "country": "ZA",
+        "description": "Internet Solutions (IS) is a South African ISP, part of the Dimension Data/NTT group, that provided bundled consumer dial-up and ADSL email accounts.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "dial-up.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxi.is.co.za"
+                    }
+                ]
+            },
+            {
+                "domain": "isdsl.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "av.dial-up.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Jubii",
         "country": "DK",
         "description": "Jubii is a Danish web portal launched in 1995, offering free email services. It is now operated by Inbox.com AS.",
@@ -7026,6 +7071,24 @@
                     {
                         "priority": "10",
                         "hostname": "smtpz4.laposte.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lantic",
+        "country": "ZA",
+        "description": "Lantic (@lantic) is a South African email service that originated as an ISP founded in 1996, was acquired by Vox Telecom in 2005, and is now operated by Vivica Group (formerly Vox Telecom) with email bundled for internet subscribers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "lantic.net",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx.inbound.vox.co.za"
                     }
                 ]
             }
@@ -18898,13 +18961,22 @@
     {
         "name": "MWEB",
         "country": "ZA",
-        "description": "MWEB is a South African ISP founded in 1997, now a subsidiary of Webafrica, providing internet and email services.",
+        "description": "MWEB is a South African ISP founded in 1997, now a subsidiary of Webafrica, providing internet and email services. It also operates the acquired South African ISP iAfrica.",
         "free": true,
         "verification": {
             "sms": true,
             "secondaryEmail": null
         },
         "domains": [
+            {
+                "domain": "iafrica.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nav-gateway.mweb.co.za"
+                    }
+                ]
+            },
             {
                 "domain": "mweb.co.za",
                 "mxRecords": [
@@ -18991,6 +19063,24 @@
                     {
                         "priority": "20",
                         "hostname": "mx6.mail.naver.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Neotel",
+        "country": "ZA",
+        "description": "Neotel was a South African telecommunications operator (now part of Liquid Intelligent Technologies) whose NeoMail service provided bundled customer email.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "neomail.co.za",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "neomail.co.za"
                     }
                 ]
             }
@@ -22190,6 +22280,39 @@
                     {
                         "priority": "10",
                         "hostname": "mx5.vodafonemail.de"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vodamail",
+        "country": "ZA",
+        "description": "Vodamail is Vodacom's free consumer webmail service in South Africa, offering a 3GB email account with sign-up via web or USSD, separate from Vodacom's corporate email domain.",
+        "free": true,
+        "verification": {
+            "sms": true,
+            "secondaryEmail": null
+        },
+        "domains": [
+            {
+                "domain": "vodamail.co.za",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1c51.megamailservers.com"
+                    },
+                    {
+                        "priority": "100",
+                        "hostname": "mx2c51.megamailservers.eu"
+                    },
+                    {
+                        "priority": "110",
+                        "hostname": "mx3c51.megamailservers.com"
+                    },
+                    {
+                        "priority": "120",
+                        "hostname": "mx4c51.megamailservers.eu"
                     }
                 ]
             }

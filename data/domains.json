@@ -558,6 +558,19 @@
                         "hostname": "bgmgate2.biglobe.ne.jp"
                     }
                 ]
+            },
+            {
+                "domain": "memail.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "bgmgate1.biglobe.ne.jp"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "bgmgate2.biglobe.ne.jp"
+                    }
+                ]
             }
         ]
     },

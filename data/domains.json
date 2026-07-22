@@ -1,5 +1,32 @@
 [
     {
+        "name": "@nifty",
+        "country": "JP",
+        "free": true,
+        "verification": null,
+        "description": "@nifty is a major Japanese internet service provider founded in 1986 (originally NIFTY-Serve), owned by Nojima Corporation since 2017, providing email addresses bundled with its ISP subscriptions.",
+        "domains": [
+            {
+                "domain": "nifty.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.nifty.com"
+                    }
+                ]
+            },
+            {
+                "domain": "nifty.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.nifty.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "A1 Telekom Austria",
         "country": "AT",
         "description": "A1 Telekom Austria is Austria’s leading integrated telecom provider, delivering mobile, fixed-line, broadband internet, TV, and ICT services to consumers and businesses.",
@@ -12,6 +39,24 @@
                     {
                         "priority": "10",
                         "hostname": "smx01.a1.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AbsaMail",
+        "country": "ZA",
+        "description": "AbsaMail (@absamail.co.za) is a South African consumer email service, registered in 2001 by Absa Group for its bank customers and now operated by South African ISP Vox Telecom, sharing the same mail infrastructure as Lantic.",
+        "free": null,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "absamail.co.za",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx.inbound.vox.co.za"
                     }
                 ]
             }
@@ -478,6 +523,45 @@
         ]
     },
     {
+        "name": "BIGLOBE",
+        "country": "JP",
+        "free": true,
+        "verification": null,
+        "description": "BIGLOBE is a major Japanese internet service provider based in Tokyo, originally part of NEC and a wholly owned subsidiary of KDDI since 2017, providing email addresses bundled with its ISP subscriptions.",
+        "domains": [
+            {
+                "domain": "biglobe.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "bgmgate1.biglobe.ne.jp"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "bgmgate2.biglobe.ne.jp"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "bgmgate9.biglobe.ne.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "biglobe.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "bgmgate1.biglobe.ne.jp"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "bgmgate2.biglobe.ne.jp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "black.com",
         "country": "AT",
         "description": "black.com is an encrypted email service operated by black.com GmbH, an Austrian company. It offers zero-access encryption with servers located in Switzerland.",
@@ -700,6 +784,24 @@
                     {
                         "priority": "1",
                         "hostname": "mta7.am0.yahoodns.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Disroot",
+        "country": "NL",
+        "free": true,
+        "verification": null,
+        "description": "Disroot is a free, privacy-oriented email and online services platform run by a volunteer collective based in the Netherlands since 2015, funded by donations.",
+        "domains": [
+            {
+                "domain": "disroot.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "disroot.org"
                     }
                 ]
             }
@@ -20845,6 +20947,351 @@
         ]
     },
     {
+        "name": "Runbox",
+        "country": "NO",
+        "free": false,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": null
+        },
+        "description": "Runbox (@runbox.com) is a paid privacy- and sustainability-focused email service operated by Runbox Solutions AS in Norway since 2000, running on renewable energy.",
+        "domains": [
+            {
+                "domain": "mailhost.work",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "mailhouse.biz",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "messagebox.email",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "offshore.rocks",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "rbox.co",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "rbox.me",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "rbx.email",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "rbx.life",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "rbx.run",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "rnbx.uk",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "run.box",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.at",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.biz",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.bz",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.ch",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.co",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.co.in",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.cz",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.dk",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.email",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.eu",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.io",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.is",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.it",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.ky",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.la",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.li",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.me",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.nl",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.no",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.pt",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.rocks",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.uk",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox.us",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "runbox7.com",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            },
+            {
+                "domain": "xobnur.uk",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mx.runbox.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "SAPO",
         "country": "PT",
         "description": "Sapo is a Portuguese portal and provider of products and services for the Internet. Founded in 1995 as a search engine, it is the largest internet portal in Portugal.",
@@ -21083,6 +21530,24 @@
         ]
     },
     {
+        "name": "So-net",
+        "country": "JP",
+        "free": true,
+        "verification": null,
+        "description": "So-net is a Japanese internet service provider operated by Sony Network Communications, part of the Sony group, providing email addresses to its broadband subscribers.",
+        "domains": [
+            {
+                "domain": "so-net.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "ms-ext91.so-net.ne.jp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "SoftBank",
         "country": "JP",
         "description": "SoftBank is a Japanese telecom operator and global technology investor that delivers mobile and broadband services while backing innovative companies worldwide.",
@@ -21237,6 +21702,39 @@
                     {
                         "priority": "10",
                         "hostname": "mxd.bolt.im"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "StartMail",
+        "country": "NL",
+        "free": false,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": null
+        },
+        "description": "StartMail (@startmail.com) is a paid privacy-focused email service launched in 2014 by the Netherlands-based company behind the Startpage search engine, offering encrypted mailboxes and disposable aliases.",
+        "domains": [
+            {
+                "domain": "startmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.startmail.com"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.startmail.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx3.startmail.com"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "mx4.startmail.com"
                     }
                 ]
             }
@@ -21931,6 +22429,54 @@
         ]
     },
     {
+        "name": "TPG Telecom",
+        "country": "AU",
+        "free": true,
+        "verification": null,
+        "description": "TPG Telecom is one of Australia's largest internet service providers, whose brands include TPG, iiNet, and Internode, providing email addresses to its broadband subscribers.",
+        "domains": [
+            {
+                "domain": "iinet.net.au",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-10.au-east.atmailcloud.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx-20.au-east.atmailcloud.com"
+                    }
+                ]
+            },
+            {
+                "domain": "internode.on.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-10.au-east.atmailcloud.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx-20.au-east.atmailcloud.com"
+                    }
+                ]
+            },
+            {
+                "domain": "tpg.com.au",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-10.au-east.atmailcloud.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx-20.au-east.atmailcloud.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Tutanota",
         "country": "DE",
         "description": "Tutanota is an end-to-end encrypted email app and a freemium secure email service.",
@@ -22177,6 +22723,28 @@
                     {
                         "priority": "10",
                         "hostname": "mxin10.virginmedia.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vivaldi",
+        "country": "NO",
+        "free": true,
+        "verification": null,
+        "description": "Vivaldi is a free webmail service provided with a Vivaldi account by Vivaldi Technologies, the Norwegian maker of the Vivaldi web browser.",
+        "domains": [
+            {
+                "domain": "vivaldi.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxi-1.vivaldi.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxi-2.vivaldi.net"
                     }
                 ]
             }

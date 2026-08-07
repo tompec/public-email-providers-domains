@@ -156,12 +156,43 @@
         ]
     },
     {
+        "name": "Alibaba Mail",
+        "country": "CN",
+        "free": true,
+        "verification": null,
+        "description": "Alibaba Mail is the email service of Alibaba Cloud, which offered free personal @aliyun.com mailboxes with 60 GB of storage. New registrations were closed in March 2025, but existing accounts continue to operate.",
+        "domains": [
+            {
+                "domain": "aliyun.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.mail.aliyun.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Altibox Mail",
         "country": "NO",
         "description": "Altibox (Lyse Group) provides customer email for Norwegian broadband subscribers.",
         "free": true,
         "verification": null,
         "domains": [
+            {
+                "domain": "altiboxmail.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1dk.altibox.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2dk.altibox.net"
+                    }
+                ]
+            },
             {
                 "domain": "lyse.net",
                 "mxRecords": [
@@ -2724,6 +2755,19 @@
         "verification": null,
         "domains": [
             {
+                "domain": "anvianet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
+                    }
+                ]
+            },
+            {
                 "domain": "elisanet.fi",
                 "mxRecords": [
                     {
@@ -2738,6 +2782,58 @@
             },
             {
                 "domain": "kolumbus.fi",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
+                    }
+                ]
+            },
+            {
+                "domain": "kotikone.fi",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
+                    }
+                ]
+            },
+            {
+                "domain": "kotiposti.net",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
+                    }
+                ]
+            },
+            {
+                "domain": "netikka.fi",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx-stp.mail.saunalahti.fi"
+                    },
+                    {
+                        "priority": "1",
+                        "hostname": "mx-tnl.mail.saunalahti.fi"
+                    }
+                ]
+            },
+            {
+                "domain": "netti.fi",
                 "mxRecords": [
                     {
                         "priority": "1",
@@ -6548,6 +6644,32 @@
         ]
     },
     {
+        "name": "GVD Net",
+        "country": "DK",
+        "free": true,
+        "verification": null,
+        "description": "GVD Net is a Danish antenna association (Gug-Visse-Dall Antenneforening) supplying internet and TV to households around Aalborg, including up to five free @gvdnet.dk email addresses per subscription.",
+        "domains": [
+            {
+                "domain": "gvdnet.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.spamexperts.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "fallbackmx.spamexperts.eu"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "lastmx.spamexperts.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Hey (email service)",
         "country": "US",
         "description": "HEY is a premium email service launched by Basecamp in June 2020.",
@@ -6869,6 +6991,96 @@
                         "hostname": "mail.cm.telia.net"
                     }
                 ]
+            },
+            {
+                "domain": "pp.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp1.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp2.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp3.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp4.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp5.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp6.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp7.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp8.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
+            },
+            {
+                "domain": "pp9.inet.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.dka.mailcore.net"
+                    }
+                ]
             }
         ]
     },
@@ -7188,6 +7400,15 @@
                         "hostname": "mx.kpnmail.nl"
                     }
                 ]
+            },
+            {
+                "domain": "xs4all.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.kpnmail.nl"
+                    }
+                ]
             }
         ]
     },
@@ -7252,6 +7473,24 @@
         "free": null,
         "verification": null,
         "domains": [
+            {
+                "domain": "inwind.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.inwind.it"
+                    }
+                ]
+            },
+            {
+                "domain": "iol.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.iol.it"
+                    }
+                ]
+            },
             {
                 "domain": "libero.it",
                 "mxRecords": [
@@ -19070,6 +19309,24 @@
         ]
     },
     {
+        "name": "Mauritius Telecom",
+        "country": "MU",
+        "free": true,
+        "verification": null,
+        "description": "Mauritius Telecom is the main telecommunications operator in Mauritius, trading as my.t, providing @intnet.mu email addresses to its internet subscribers. Mailboxes on the retired @orange.mu domain were migrated to @intnet.mu.",
+        "domains": [
+            {
+                "domain": "intnet.mu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mailsecurity.myt.mu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Meta.ua",
         "country": "UA",
         "description": "Meta.ua is a comprehensive Ukrainian web portal offering search, email, news, and various online services.",
@@ -19086,6 +19343,32 @@
                     {
                         "priority": "30",
                         "hostname": "mxs3.meta.ua"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Munkebo Net",
+        "country": "DK",
+        "free": true,
+        "verification": null,
+        "description": "Munkebo Net is a Danish local broadband association in Munkebo on Funen, providing internet access and email addresses to its members.",
+        "domains": [
+            {
+                "domain": "munkebonet.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.spamexperts.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "fallbackmx.spamexperts.eu"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "lastmx.spamexperts.net"
                     }
                 ]
             }
@@ -19751,6 +20034,15 @@
                     {
                         "priority": "10",
                         "hostname": "nam.olc.protection.outlook.com"
+                    }
+                ]
+            },
+            {
+                "domain": "hotmail.com.hk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com"
                     }
                 ]
             },
@@ -20565,6 +20857,24 @@
                     {
                         "priority": "10",
                         "hostname": "nam.olc.protection.outlook.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "POST Luxembourg",
+        "country": "LU",
+        "free": true,
+        "verification": null,
+        "description": "POST Luxembourg is the state-owned postal and telecommunications operator of the Grand Duchy of Luxembourg, providing @pt.lu email addresses to its internet subscribers.",
+        "domains": [
+            {
+                "domain": "pt.lu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.pt.lu"
                     }
                 ]
             }
@@ -22173,6 +22483,46 @@
         ]
     },
     {
+        "name": "Salzburg AG",
+        "country": "AT",
+        "free": true,
+        "verification": null,
+        "description": "Salzburg AG is the utility and telecommunications company of the Austrian state of Salzburg, providing internet under the CableLink brand. Customer mailboxes run on its CableLink mail platform, which also serves the legacy salzburg.co.at domain.",
+        "domains": [
+            {
+                "domain": "salzburg.co.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-in.cablelink.at"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SANNET",
+        "country": "JP",
+        "free": false,
+        "verification": null,
+        "description": "SANNET was a Japanese internet service provider launched in 1995 by a Sanyo Electric subsidiary and later acquired by Rakuten. All ISP services ended on 31 March 2020, but former customers can keep their @sannet.ne.jp mailboxes on a paid mail-only plan operated by Rakuten.",
+        "domains": [
+            {
+                "domain": "sky.sannet.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.mail.gol.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mx2.mail.gol.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "SAPO",
         "country": "PT",
         "description": "Sapo is a Portuguese portal and provider of products and services for the Internet. Founded in 1995 as a search engine, it is the largest internet portal in Portugal.",
@@ -22589,6 +22939,40 @@
         ]
     },
     {
+        "name": "Sri Lanka Telecom",
+        "country": "LK",
+        "free": true,
+        "verification": null,
+        "description": "Sri Lanka Telecom is Sri Lanka's national telecommunications operator, providing @sltnet.lk email addresses to its broadband subscribers.",
+        "domains": [
+            {
+                "domain": "sltnet.lk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mailin-03.gw.sltidc.lk"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mailin-06.gw.sltidc.lk"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mailin-07.gw.sltidc.lk"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mailin-04.gw.sltidc.lk"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "mailin-05.gw.sltidc.lk"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "StartMail",
         "country": "NL",
         "free": false,
@@ -22616,6 +23000,33 @@
                     {
                         "priority": "30",
                         "hostname": "mx4.startmail.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stofa",
+        "country": "DK",
+        "free": true,
+        "verification": null,
+        "description": "Stofa is a Danish cable and fibre broadband provider owned by the energy and telecommunications group Norlys, giving its subscribers a free package of five @stofanet.dk email addresses.",
+        "domains": [
+            {
+                "domain": "bbsyd.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-lb-1.stofanet.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "stofanet.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-lb-1.stofanet.dk"
                     }
                 ]
             }
@@ -23304,6 +23715,36 @@
                     {
                         "priority": "50",
                         "hostname": "imp-5.mail.tiscali.it"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tiscali.cz",
+        "country": "CZ",
+        "free": true,
+        "verification": null,
+        "description": "Tiscali.cz is a Czech web portal launched in 1998 that offers a free email service. It has been operated by Tiscali Media a.s., part of the Czech Dignity group, since 2009 and is unrelated to the Italian Tiscali business.",
+        "domains": [
+            {
+                "domain": "tiscali.cz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "tax.virusfree.cz"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "tbx.virusfree.cz"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "tcx.spamfree.cz"
+                    },
+                    {
+                        "priority": "40",
+                        "hostname": "tdx.spamfree.cz"
                     }
                 ]
             }
@@ -24627,7 +25068,43 @@
         "verification": null,
         "domains": [
             {
+                "domain": "c.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "esenet.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
                 "domain": "mail.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "mail.tele.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "os.dk",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -24645,7 +25122,25 @@
                 ]
             },
             {
+                "domain": "post.tele.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
                 "domain": "privat.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "tdcadsl.dk",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -24704,6 +25199,19 @@
             },
             {
                 "domain": "home.nl",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mxin5.ziggo.nl"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mxin10.ziggo.nl"
+                    }
+                ]
+            },
+            {
+                "domain": "upcmail.nl",
                 "mxRecords": [
                     {
                         "priority": "5",
@@ -24802,6 +25310,24 @@
                     {
                         "priority": "50",
                         "hostname": "smtpin3.zoho.in"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ålcom",
+        "country": "AX",
+        "free": true,
+        "verification": null,
+        "description": "Ålcom (Ålands Telekommunikation Ab) is the leading telecommunications provider in the Åland Islands, including five free @aland.net email addresses with every fixed broadband subscription.",
+        "domains": [
+            {
+                "domain": "aland.net",
+                "mxRecords": [
+                    {
+                        "priority": "0",
+                        "hostname": "mail.aland.net"
                     }
                 ]
             }

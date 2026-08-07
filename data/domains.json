@@ -34,6 +34,15 @@
         "verification": null,
         "domains": [
             {
+                "domain": "a1.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smx01.a1.net"
+                    }
+                ]
+            },
+            {
                 "domain": "aon.at",
                 "mxRecords": [
                     {
@@ -628,6 +637,15 @@
             },
             {
                 "domain": "btopenworld.com",
+                "mxRecords": [
+                    {
+                        "priority": "1",
+                        "hostname": "mx.bt.prod.cloud.openwave.ai"
+                    }
+                ]
+            },
+            {
+                "domain": "talk21.com",
                 "mxRecords": [
                     {
                         "priority": "1",
@@ -20563,6 +20581,210 @@
         },
         "domains": [
             {
+                "domain": "posteo.at",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.au",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.be",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.ca",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.cl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.co",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.co.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.com.br",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.cr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.cz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
                 "domain": "posteo.de",
                 "mxRecords": [
                     {
@@ -20572,6 +20794,652 @@
                     {
                         "priority": "10",
                         "hostname": "mx02.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.ee",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.es",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.eu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.fi",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.gl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.gr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.hn",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.hr",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.hu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.ie",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.in",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.is",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.la",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.li",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.lt",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.lu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.me",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.mx",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.my",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.nl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.no",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.nz",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.pe",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.pl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.pm",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.pt",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.ro",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.se",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.sg",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.si",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.tn",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.uk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.posteo.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx04.posteo.de"
+                    }
+                ]
+            },
+            {
+                "domain": "posteo.us",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.posteo.de"
                     },
                     {
                         "priority": "10",
@@ -22639,6 +23507,24 @@
                     {
                         "priority": "10",
                         "hostname": "mx.uol.com.br"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "USA.NET",
+        "country": "US",
+        "description": "USA.NET is an American email provider operating the Net@ddress webmail service under the SilverSky brand, offering paid consumer and business mailboxes.",
+        "free": false,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "usa.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mxpool01.netaddress.usa.net"
                     }
                 ]
             }

@@ -19377,7 +19377,7 @@
     {
         "name": "MWEB",
         "country": "ZA",
-        "description": "MWEB is a South African ISP founded in 1997, now a subsidiary of Webafrica, providing internet and email services. It also operates the acquired South African ISP iAfrica.",
+        "description": "MWEB is a South African ISP founded in 1997, now a subsidiary of Webafrica, providing internet and email services. It also operates the acquired South African ISPs iAfrica and World Online (the local arm of the Dutch ISP, later rebranded Tiscali South Africa, acquired by MWEB in 2004).",
         "free": true,
         "verification": {
             "sms": true,
@@ -19398,7 +19398,32 @@
                 "mxRecords": [
                     {
                         "priority": "10",
-                        "hostname": "mx-se.mweb.co.za"
+                        "hostname": "mx.spamexperts.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "fallbackmx.spamexperts.eu"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "lastmx.spamexperts.net"
+                    }
+                ]
+            },
+            {
+                "domain": "worldonline.co.za",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.spamexperts.com"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "fallbackmx.spamexperts.eu"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "lastmx.spamexperts.net"
                     }
                 ]
             }

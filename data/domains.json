@@ -314,6 +314,3330 @@
         ]
     },
     {
+        "name": "Asahi Net",
+        "country": "JP",
+        "description": "Asahi Net is a Japanese internet service provider offering MyMail addresses to its members.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "a-net.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "a.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "aaa.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "account.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ad.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "aichi.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "air.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "akita.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "an.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "angel.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "aomori.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "apple.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "apr.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "aqua.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "art.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "as.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "asa.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "asahi-net.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "asahi-ns.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "asahi.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "aug.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "b.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "bank.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "bird.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "black.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "blue.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "box.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "branch.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "c.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "cafe.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "cat.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "center.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "chiba.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "chief.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "church.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "classic.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "club.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "co.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "company.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "cool.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "corp.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "crd.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "cute.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "cyber.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "d.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "dec.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "dental.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "dept.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "desk.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "digital.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "director.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "doctor.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "dog.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "dolphin.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "dragon.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "dream.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "e.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "eagle.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "earth.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ehime.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "enjoy.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "exec.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "f.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "family.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "feb.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "finance.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "firm.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "flower.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "fuji.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "fukui.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "fukuoka.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "fukushima.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "g.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "gifu.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "gold.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "green.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "group.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "gunma.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "h.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ham.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "happy.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "heart.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "hello.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "hino.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "hiroshima.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "hobby.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "hokkaido.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "home.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "honey.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "hotel.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "hyogo.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "i.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ibaraki.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ice.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "inc.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "info.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "internet.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ishikawa.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "iwate.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "j.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "jan.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "japan.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "jazz.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "job.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "joy.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "jul.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "jun.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "k.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kagawa.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kagoshima.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kanagawa.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kansai.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kashi.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kids.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kiss.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kk.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kobe.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kochi.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kumamoto.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "kyoto.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "l.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "law.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "leaf.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "league.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "love.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "lovely.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "luna.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "m.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "mac.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "mall.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "mama.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "manager.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "mar.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "marine.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "master.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "may.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "med.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "medical.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "mgr.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "mie.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "mine.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "miyagi.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "miyazaki.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "mobile.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "moon.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "music.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "my.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "n.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "nagano.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "nagasaki.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "nakamura.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "nara.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "nature.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "navy.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "net.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "network.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "news.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "nice.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "niigata.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "nippon.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "nov.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "o.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "oasis.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ocean.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "oct.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "office.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "oita.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "okayama.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "okinawa.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "orange.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "osaka.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "p.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "papa.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "pc.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "peace.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "personal.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "piano.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "post.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "power.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "pr.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "private.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "pro.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "public.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "pure.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "q.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "r.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "radio.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "red.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "report.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "rock.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "s.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "saga.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "saitama.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sakura.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sales.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sapporo.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sato.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sec.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sendme.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sep.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "service.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "shiga.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "shimane.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "shizuoka.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "shop.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "silver.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ski.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sky.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "smile.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "snow.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "spring.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "star.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "store.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "summer.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sun.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "sunny.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "super.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "support.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "suzuki.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "t.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "tanaka.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "teacher.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "team.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "tech.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "to.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "tochigi.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "tohata.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "tokushima.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "tokyo.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "tora.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "tottori.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "toyama.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "trade.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "u.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "union.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "v.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "vendor.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "venture.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "veteran.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "w.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "wakayama.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "watanabe.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "win.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "wind.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "wolf.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "work.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "world.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "x.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "y.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "yamagata.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "yamaguchi.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "yamanashi.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "yokohama.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "z.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "zoo.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "AT&T",
         "country": "US",
         "description": "AT&T Inc. offers free email service with 1TB storage, including legacy sbcglobal.net addresses.",
@@ -846,6 +4170,28 @@
                     {
                         "priority": "1",
                         "hostname": "mta7.am0.yahoodns.net"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Deutsche Glasfaser",
+        "country": "DE",
+        "description": "Deutsche Glasfaser is a German fibre-to-the-home internet provider offering email accounts to its broadband customers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "dg-email.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "relay-in02-prod-esh.dg-sys.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "relay-in02-prod-lzb3.dg-sys.net"
                     }
                 ]
             }
@@ -4711,6 +8057,36 @@
         ]
     },
     {
+        "name": "Fastweb",
+        "country": "CH",
+        "description": "Fastweb is an Italian broadband and mobile operator owned by Swisscom, providing legacy email addresses to its internet customers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "fastwebnet.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.fastwebnet.it"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.fastwebnet.it"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.fastwebnet.it"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx4.fastwebnet.it"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Freemail",
         "country": "HU",
         "description": "Freemail is a free email service offering secure, reliable messaging with spam protection and seamless access across devices.",
@@ -4746,6 +8122,15 @@
             },
             {
                 "domain": "fn.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.freenet.de"
+                    }
+                ]
+            },
+            {
+                "domain": "freakmail.de",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -6763,6 +10148,27 @@
                         "hostname": "mx3.i.ua"
                     }
                 ]
+            },
+            {
+                "domain": "ua.fm",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.ua.fm"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx6.ua.fm"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx7.ua.fm"
+                    },
+                    {
+                        "priority": "15",
+                        "hostname": "mx1.ua.fm"
+                    }
+                ]
             }
         ]
     },
@@ -7339,6 +10745,28 @@
         ]
     },
     {
+        "name": "KEVAG Telekom",
+        "country": "DE",
+        "description": "KEVAG Telekom is a regional cable and fibre internet provider in Koblenz, Germany, offering email accounts to its customers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "ktkmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "30",
+                        "hostname": "mx-a.ktk.de"
+                    },
+                    {
+                        "priority": "30",
+                        "hostname": "mx-b.ktk.de"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Kolab Now",
         "country": "CH",
         "description": "Kolab Now is a web-based email and groupware service, based completely on free and open-source software.",
@@ -7474,6 +10902,15 @@
         "verification": null,
         "domains": [
             {
+                "domain": "blu.it",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "smtp-in.blu.it"
+                    }
+                ]
+            },
+            {
                 "domain": "inwind.it",
                 "mxRecords": [
                     {
@@ -7554,6 +10991,33 @@
                     {
                         "priority": "5",
                         "hostname": "mx.lycos.com.cust.b.hostedemail.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Magyar Telekom",
+        "country": "DE",
+        "description": "Magyar Telekom is Hungary's largest telecommunications company, a Deutsche Telekom subsidiary, providing T-email addresses to its internet and mobile customers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "t-email.hu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.t-online.hu"
+                    }
+                ]
+            },
+            {
+                "domain": "t-online.hu",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.t-online.hu"
                     }
                 ]
             }
@@ -19375,6 +22839,31 @@
         ]
     },
     {
+        "name": "Murena",
+        "country": "FR",
+        "description": "Murena is a French company behind the /e/OS mobile operating system and Murena Workspace cloud, including a free email service.",
+        "free": true,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": true
+        },
+        "domains": [
+            {
+                "domain": "e.email",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.ecloud.global"
+                    },
+                    {
+                        "priority": "50",
+                        "hostname": "mail.ecloud.global"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "MWEB",
         "country": "ZA",
         "description": "MWEB is a South African ISP founded in 1997, now a subsidiary of Webafrica, providing internet and email services. It also operates the acquired South African ISPs iAfrica and World Online (the local arm of the Dutch ISP, later rebranded Tiscali South Africa, acquired by MWEB in 2004).",
@@ -19599,6 +23088,27 @@
                     {
                         "priority": "50",
                         "hostname": "yeahmx00.mxmail.netease.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "NorthMail.ca",
+        "country": "CA",
+        "description": "NorthMail.ca is a Québec-based free email service with an optional paid ad-free plan.",
+        "free": true,
+        "verification": {
+            "sms": null,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "northmail.ca",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail.northmail.ca"
                     }
                 ]
             }
@@ -20342,6 +23852,15 @@
                 ]
             },
             {
+                "domain": "live.cl",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "nam.olc.protection.outlook.com"
+                    }
+                ]
+            },
+            {
                 "domain": "live.cn",
                 "mxRecords": [
                     {
@@ -20464,6 +23983,15 @@
                     {
                         "priority": "10",
                         "hostname": "eur.olc.protection.outlook.com"
+                    }
+                ]
+            },
+            {
+                "domain": "live.in",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "apc.olc.protection.outlook.com"
                     }
                 ]
             },
@@ -22097,6 +25625,24 @@
         ]
     },
     {
+        "name": "Rakuten Mobile",
+        "country": "JP",
+        "description": "Rakuten Mobile is a Japanese mobile carrier offering the free Rakumail carrier email service to its subscribers.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "rakumail.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail-rakumail-jp.gslb.rmb-ss.jp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Rambler (portal)",
         "country": "RU",
         "description": "Rambler (Russian: Рамблер) is a Russian search engine and one of the biggest Russian web portals, owned by the Rambler Media Group.",
@@ -22108,6 +25654,15 @@
                 "mxRecords": [
                     {
                         "priority": "10",
+                        "hostname": "inmx.rambler.ru"
+                    }
+                ]
+            },
+            {
+                "domain": "ro.ru",
+                "mxRecords": [
+                    {
+                        "priority": "5",
                         "hostname": "inmx.rambler.ru"
                     }
                 ]
@@ -22592,6 +26147,32 @@
         ]
     },
     {
+        "name": "senseLAN",
+        "country": "CH",
+        "description": "senseLAN is a Swiss regional internet provider in the canton of Fribourg offering senseMAIL accounts with its internet subscriptions.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "sensemail.ch",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.senselan.ch"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx02.senselan.ch"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx03.senselan.ch"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Seznam",
         "country": "CZ",
         "description": "Seznam is a Czech internet search engine and web portal offering free email with unlimited storage.",
@@ -22816,6 +26397,24 @@
                     {
                         "priority": "10",
                         "hostname": "msv.softbank.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ybb.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "ybbmx1.mail.yahoo.co.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "ymobile.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mail1.ymobile.softbank.ne.jp"
                     }
                 ]
             }
@@ -23087,6 +26686,24 @@
                     {
                         "priority": "10",
                         "hostname": "mxin2-sunrise-ch.edge.unified.services"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "swb",
+        "country": "DE",
+        "description": "swb is a Bremen utility and internet provider (EWE group) whose email service, operated by EWE TEL, is included with its DSL subscriptions.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "swbmail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-x0.ewetel.de"
                     }
                 ]
             }
@@ -24215,6 +27832,32 @@
                         "hostname": "mx5.vodafonemail.de"
                     }
                 ]
+            },
+            {
+                "domain": "unity-mail.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.vodafonemail.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx5.vodafonemail.de"
+                    }
+                ]
+            },
+            {
+                "domain": "unitybox.de",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.vodafonemail.de"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx5.vodafonemail.de"
+                    }
+                ]
             }
         ]
     },
@@ -24539,6 +28182,15 @@
                     {
                         "priority": "1",
                         "hostname": "mta7.am0.yahoodns.net"
+                    }
+                ]
+            },
+            {
+                "domain": "kimo.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx-tw.mail.gm0.yahoodns.net"
                     }
                 ]
             },
@@ -25121,6 +28773,15 @@
             },
             {
                 "domain": "mail.tele.dk",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "fpo9.mail.dk"
+                    }
+                ]
+            },
+            {
+                "domain": "newmail.dk",
                 "mxRecords": [
                     {
                         "priority": "10",

@@ -194,6 +194,23 @@
                 ]
             },
             {
+                "domain": "altiboxmail.no",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx1.altibox.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.altibox.net"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx3.altibox.net"
+                    }
+                ]
+            },
+            {
                 "domain": "lyse.net",
                 "mxRecords": [
                     {
@@ -1089,6 +1106,19 @@
             },
             {
                 "domain": "ehime.email.ne.jp",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "asahinet-mx-v4.xspmail.jp"
+                    },
+                    {
+                        "priority": "20",
+                        "hostname": "asahinet-mx-v6.xspmail.jp"
+                    }
+                ]
+            },
+            {
+                "domain": "email.ne.jp",
                 "mxRecords": [
                     {
                         "priority": "10",
@@ -4150,6 +4180,204 @@
         ]
     },
     {
+        "name": "Cox Business",
+        "country": "US",
+        "description": "Cox Business provides hosted email to its business internet customers on Cox-owned domains such as coxbusiness.net and regional coxmail.com domains, often under per-business subdomains.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "arcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "brcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "cfcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "coxbusiness.net",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "coxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "gccoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "glacoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "hrcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "kscoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "lvcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "mgacoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "necoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "nocoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "occoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "omhcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "phxcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "pvcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "roacoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "sbcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "sdcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            },
+            {
+                "domain": "svcoxmail.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.coxmail.com"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "Cox Communications",
         "country": "US",
         "description": "Cox Communications email service transitioned to Yahoo Mail. Cox.net addresses remain active on Yahoo infrastructure, free for Cox customers.",
@@ -4170,6 +4398,19 @@
                     {
                         "priority": "1",
                         "hostname": "mta7.am0.yahoodns.net"
+                    }
+                ]
+            },
+            {
+                "domain": "lvcm.com",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx01.lvcm.net"
+                    },
+                    {
+                        "priority": "100",
+                        "hostname": "mx02.lvcm.net"
                     }
                 ]
             }
@@ -27220,6 +27461,15 @@
                 ]
             },
             {
+                "domain": "bigpond.com.au",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "extmail.bigpond.com"
+                    }
+                ]
+            },
+            {
                 "domain": "bigpond.net.au",
                 "mxRecords": [
                     {
@@ -27357,6 +27607,28 @@
                     {
                         "priority": "50",
                         "hostname": "imp-5.mail.tiscali.it"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TinkMail",
+        "country": "CN",
+        "description": "TinkMail is a free webmail service by Tinkink offering 10GB of storage with open signup.",
+        "free": true,
+        "verification": null,
+        "domains": [
+            {
+                "domain": "tinkmail.me",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mx1.tinkmail.me"
+                    },
+                    {
+                        "priority": "10",
+                        "hostname": "mx2.tinkmail.me"
                     }
                 ]
             }

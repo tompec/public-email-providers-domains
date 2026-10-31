@@ -3668,6 +3668,38 @@
         ]
     },
     {
+        "name": "Aster Mail",
+        "country": "US",
+        "domain": "astermail.org",
+        "parentDomain": "astermail.org",
+        "description": "End-to-end encrypted email service",
+        "free": true,
+        "verification": {
+            "sms": false,
+            "secondaryEmail": false
+        },
+        "domains": [
+            {
+                "domain": "aster.cx",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.aster.cx"
+                    }
+                ]
+            },
+            {
+                "domain": "astermail.org",
+                "mxRecords": [
+                    {
+                        "priority": "10",
+                        "hostname": "mx.astermail.org"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "name": "AT&T",
         "country": "US",
         "description": "AT&T Inc. offers free email service with 1TB storage, including legacy sbcglobal.net addresses.",

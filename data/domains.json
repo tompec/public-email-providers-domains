@@ -10771,7 +10771,25 @@
         "verification": null,
         "domains": [
             {
+                "domain": "etik.com",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mta-gw.infomaniak.ch"
+                    }
+                ]
+            },
+            {
                 "domain": "ik.me",
+                "mxRecords": [
+                    {
+                        "priority": "5",
+                        "hostname": "mta-gw.infomaniak.ch"
+                    }
+                ]
+            },
+            {
+                "domain": "ikmail.com",
                 "mxRecords": [
                     {
                         "priority": "5",
